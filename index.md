@@ -8,8 +8,7 @@
             background-color: ff6699;
             color: white;
             text-align: center;
-            padding: 5px;
-            border: 5px #ffcccc;
+            <!-- padding: 5px; -->
             border-radius: 10px;
         }
     </style>

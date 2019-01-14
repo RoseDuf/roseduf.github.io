@@ -1,13 +1,10 @@
 
-
-<!DOCTYPE html>
-
 <html>
     <head>
         <title> Rose Dufresne </title>
     </head>
 
-    <body>
+    <body bgcolor="#ffcccc">
         <h1> Hello </h1>
     </body>
 

@@ -2,26 +2,36 @@
 <html>
     <head>
         <title> Rose Dufresne </title>
+
+    <style>
+        .intro {
+            background-color: #ffb3d9;
+            color: white;
+        }
+    </style>
+
     </head>
 
     <body>
         <h1> Welcome to Rose Dufresne's website! </h1>
         <h3> Introduction </h3>
-        <p> 
-        I am a third year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
-        </p>
-        <p>
-        During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. 
-        </p>
-        <p>
-        Thanks to my game design minor, I also had the opportunity to combine the very technical aspects of computer science with art! I have always been a very artistic person and I absolutely didn't want to let my talents go to waste, which is why I am very interested in creating games. It perfectly combines the mathematical and logical aspects of computer science with art, something that is very hard to find in professional fields. 
-        </p>
-        <p>
-        When it comes to programming, one of my knacks is my ability to learn new programming languages and softwares very quickly. Before applying to my major, I had no previous knowledge in coding. However, it only took me a couple of months to finally catch up to the standards of the classes I was taking, and even exceeded other students in my program.
-        </p>
-        <p>
-        That being said, I will go through the different languages I've learned during the years.
-        </p>
+        <div class="intro">
+            <p> 
+            I am a third year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
+            </p>
+            <p>
+            During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. 
+            </p>
+            <p>
+            Thanks to my game design minor, I also had the opportunity to combine the very technical aspects of computer science with art! I have always been a very artistic person and I absolutely didn't want to let my talents go to waste, which is why I am very interested in creating games. It perfectly combines the mathematical and logical aspects of computer science with art, something that is very hard to find in professional fields. 
+            </p>
+            <p>
+            When it comes to programming, one of my competences is my ability to learn new programming languages and softwares very quickly. Before applying to my major, I had no previous knowledge in coding. However, it only took me a couple of months to finally catch up to the standards of the classes I was taking, and even exceeded other students in my program.
+            </p>
+            <p>
+            That being said, I will go through the different languages I've learned during the years.
+            </p>
+        </div>
     </body>
 
 </html>

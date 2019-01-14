@@ -5,8 +5,12 @@
 
     <style>
         .intro {
-            background-color: #ffb3d9;
+            background-color: ff6699;
             color: white;
+            text-align: center;
+            padding: 15px;
+            border: 10px #ffcccc;
+            border-radius: 15px;
         }
     </style>
 

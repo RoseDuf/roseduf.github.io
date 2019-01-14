@@ -8,9 +8,9 @@
             background-color: ff6699;
             color: white;
             text-align: center;
-            padding: 15px;
-            border: 10px #ffcccc;
-            border-radius: 15px;
+            padding: 5px;
+            border: 5px #ffcccc;
+            border-radius: 10px;
         }
     </style>
 

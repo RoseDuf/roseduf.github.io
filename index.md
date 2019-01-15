@@ -9,7 +9,7 @@
             text-align: center;
             font-size: 16px;
             padding: 15px;
-            border: 10px #ff4d88;
+            border: 10px solid #ff4d88;
             background-color: pink;
             border-radius: 10px;
         }

@@ -9,7 +9,7 @@
             text-align: center;
             font-size: 16px;
             padding: 15px;
-            border: 10px solid #ff4d88;
+            border: 10px solid #ff99bb;
             background-color: pink;
             border-radius: 10px;
         }
@@ -19,6 +19,12 @@
 
     <body>
         <h1> Welcome to Rose Dufresne's website! </h1>
+
+        <div> 
+            <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne">
+        </div>
+
+
         <h3> Introduction </h3>
         <div class="intro">
             <p> 

@@ -37,7 +37,11 @@
         .name {
             vertical-align: top;
             color: black;
-        }        
+        }       
+
+        .bold {
+            font-size: 18px;
+        } 
 
     </style>
 
@@ -53,6 +57,7 @@
             <td>
                 <h1 class="name"> Rose Dufresne </h1>
                 <div> Welcome to my website! </div>
+                <div> blah blah blah,  put more info and stuff here </div>
             </td>
         </tr>
 
@@ -76,6 +81,18 @@
             That being said, I will go through the different languages I've learned during the years.
             </p>
         </div>
+
+        <h3> Education </h3>
+        <pre class="bold">
+        <b>
+            Concordia University, Montreal, QC                  
+        </b> 
+        <i>
+            (from 2016 until now)
+        </i>
+        </pre>
+        
+
     </body>
 
 </html>

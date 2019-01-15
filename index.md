@@ -13,6 +13,15 @@
             background-color: pink;
             border-radius: 10px;
         }
+
+        table {
+            vertical-align: top;
+        }
+
+        .name {
+            color: black;
+        }
+
     </style>
 
     </head>
@@ -20,19 +29,16 @@
     <body>
         <table>
         <tr>
-            <th> 
+            <td> 
                 <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300">
-            </th>
+            </td>
 
-            <th>
-                <h1> Rose Dufresne </h1>
-            </th>
+            <td>
+                <h1 class="name"> Rose Dufresne </h1>
+                <div> Welcome to my website! </div>
+            </td>
         </tr>
 
-        <tr>
-            <td></td>
-            <td> Welcome to my website! </td>
-        </tr>
         </table>
 
         <h3> Introduction </h3>

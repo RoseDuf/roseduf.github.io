@@ -34,11 +34,8 @@
             border: none;
         }
 
-        table {
-            border: none;
-        }
-
         .name {
+            vertical-align: top;
             color: black;
         }        
 

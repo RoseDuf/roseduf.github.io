@@ -5,13 +5,13 @@
 
     <style>
         .intro {
-            background-color: ff6699;
             color: black;
             text-align: center;
-            <!-- padding: 5px; -->
+            font-size: 16px;
+            padding: 15px;
+            border: 10px #ff4d88;
+            background-color: pink;
             border-radius: 10px;
-            border : #ffcccc;
-            font-size: 12px;
         }
     </style>
 

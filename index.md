@@ -83,15 +83,15 @@
         </div>
 
         <h3> Education </h3>
-        <pre class="bold">
-        <b>
-            Concordia University, Montreal, QC                  
+        <p>
+        <b class="bold">
+            Concordia University, Montreal, QC &nbsp;&nbsp;&nbsp;&nbsp;
         </b> 
         <i>
             (from 2016 until now)
         </i>
-        </pre>
-        
+        </p>
+
 
     </body>
 

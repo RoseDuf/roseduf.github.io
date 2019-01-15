@@ -18,6 +18,7 @@
     </head>
 
     <body>
+        <table>
         <tr>
             <th> 
                 <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300">
@@ -32,6 +33,7 @@
             <td></td>
             <td> Welcome to my website! </td>
         </tr>
+        </table>
 
         <h3> Introduction </h3>
         <div class="intro">

@@ -18,12 +18,15 @@
     </head>
 
     <body>
-        <h1> Welcome to Rose Dufresne's website! </h1>
+        <tr>
+            <th> 
+                <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300">
+            </th>
 
-        <div> 
-            <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne">
-        </div>
-
+            <th>
+                <h1> Welcome to Rose Dufresne's website! </h1>
+            </th>
+        </tr>
 
         <h3> Introduction </h3>
         <div class="intro">

@@ -90,19 +90,19 @@
         <h3> Education </h3>
         <div class="edu">
             <p>
-                **Concordia University, Montreal, QC** 
+                <b>Concordia University, Montreal, QC</b>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             
-                _(from 2016 until now)_
+                <i>(from 2016 until now)</i>
             </p>
         </div>
 
         <div class="gd">
             <p>
-                **Game Design Minor**
+                <b>Game Design Minor</b>
             </p>
             <p>
-                
+
             </p>
         </div>
 

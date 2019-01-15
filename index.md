@@ -14,13 +14,21 @@
             border-radius: 10px;
         }
 
-        table {
+        tbody {
             vertical-align: top;
+        }
+
+        td {
+            border: none;
+        }
+
+        table {
+            border: none;
         }
 
         .name {
             color: black;
-        }
+        }        
 
     </style>
 

@@ -6,10 +6,12 @@
     <style>
         .intro {
             background-color: ff6699;
-            color: white;
+            color: black;
             text-align: center;
             <!-- padding: 5px; -->
             border-radius: 10px;
+            border : #ffcccc;
+            font-size: 12px;
         }
     </style>
 

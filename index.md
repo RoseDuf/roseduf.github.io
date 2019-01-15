@@ -39,9 +39,14 @@
             color: black;
         }       
 
-        .bold {
+        .edu {
             font-size: 18px;
         } 
+
+        .gd {
+            text-align: center;
+            background-color: #99ff99;
+        }
 
     </style>
 
@@ -83,14 +88,23 @@
         </div>
 
         <h3> Education </h3>
-        <p>
-        <b class="bold">
-            Concordia University, Montreal, QC &nbsp;&nbsp;&nbsp;&nbsp;
-        </b> 
-        <i>
-            (from 2016 until now)
-        </i>
-        </p>
+        <div class="edu">
+            <p>
+                **Concordia University, Montreal, QC** 
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            
+                _(from 2016 until now)_
+            </p>
+        </div>
+
+        <div class="gd">
+            <p>
+                **Game Design Minor**
+            </p>
+            <p>
+                
+            </p>
+        </div>
 
 
     </body>

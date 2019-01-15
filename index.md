@@ -14,11 +14,23 @@
             border-radius: 10px;
         }
 
+        table {
+            vertical-align: top;
+            border: none;
+        }
+
         tbody {
             vertical-align: top;
+            border: none;
+        }
+
+        tr {
+            vertical-align: top;
+            border: none;
         }
 
         td {
+            vertical-align: top;
             border: none;
         }
 

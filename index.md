@@ -24,8 +24,13 @@
             </th>
 
             <th>
-                <h1> Welcome to Rose Dufresne's website! </h1>
+                <h1> Rose Dufresne </h1>
             </th>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td> Welcome to my website! </td>
         </tr>
 
         <h3> Introduction </h3>

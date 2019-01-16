@@ -41,11 +41,17 @@
 
         .edu {
             font-size: 18px;
+            font-weight: bold;
         } 
 
         .gd {
             text-align: center;
             background-color: #99ff99;
+            
+        }
+
+        .gd-title {
+            font-weight: bold;
         }
 
     </style>
@@ -92,14 +98,15 @@
             <p>
                 <b>Concordia University, Montreal, QC</b>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            
-                <i>(from 2016 until now)</i>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                (from 2016 until now)
             </p>
         </div>
 
         <div class="gd">
-            <p>
-                <b>Game Design Minor</b>
+            <p class="gd-title">
+                Game Design Minor
             </p>
             <p>
 

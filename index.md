@@ -47,7 +47,7 @@
         .gd {
             text-align: center;
             background-color: #99ff99;
-            
+            border-radius: 10px;
         }
 
         .gd-title {
@@ -111,8 +111,12 @@
                 Game Design Minor
             </p>
             <p>
-
+                Relevant courses I have taken:
             </p>
+            <ul>
+                <li>3D Digital Production - CART 361</li>
+                <li>Computation Arts I - CART 253</li>
+            </ul>  
         </div>
 
 

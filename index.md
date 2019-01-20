@@ -45,9 +45,10 @@
         } 
 
         .gd {
-            background-color: #ff4d4d;
+            background-color: #ff9999;
             border-radius: 10px;
-            border: 10px solid #ff3333;
+            border: 10px solid #ff6666;
+            color: black;
         }
 
         .gd-title {
@@ -59,6 +60,7 @@
             background-color: #ff944d;
             border-radius: 10px;
             border: 10px solid #ff8533;
+            color: black;
         }
 
         .cs-title {

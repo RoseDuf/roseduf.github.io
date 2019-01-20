@@ -173,6 +173,8 @@
 
             <h4> Monster Bat </h4>
             <p>(Made using Blender)</p>
+        </div>
+        <div>
             <p>
                 This was my very first 3D modeling and animation project that I had to do for my 3D digital design class. It is inspired by Pteropus bats, more commonly known as "Flying Foxes". I started by making a basic sculpt of the bat while making sure to have uniform quad polygons all accross the model. I then proceeded with the texturing, materials and colors using references and added fur which wasn't required for the class. I then added HDR lighting, and finally animated it flying in a natural manner. 
             </p>

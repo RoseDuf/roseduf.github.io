@@ -87,7 +87,9 @@
             <td>
                 <h1 class="name"> Rose Dufresne </h1>
                 <div> Welcome to my website! </div>
-                <div> blah blah blah,  put more info and stuff here </div>
+                <div> 
+                    <p><a href="CV-english.pdf download"> CV </a></p>
+                </div>
             </td>
         </tr>
 

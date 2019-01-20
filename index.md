@@ -4,9 +4,27 @@
         <title> Rose Dufresne </title>
 
     <style>
+        h1, h2, h3 {
+            font-family: sans-serif;
+            font-size: 30px;
+            font-weight: 400;
+            text-transform: uppercase;
+        }
+        
+        body {
+            margin: 0;
+            background: #2a2a2a;
+        }
+
+        .outer {
+            width: 80%;
+            margin: auto;
+            background: #fcfcfc;
+        }
+    
 
         .inner {
-            width: 80%;
+            width: 90%;
             margin: auto;
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -119,7 +137,7 @@
         <div class="picture">
         
             <div> 
-                <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300">
+                <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300" style="border-radius: 300px;">
             </div>
 
             <div>

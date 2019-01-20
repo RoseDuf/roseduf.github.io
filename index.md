@@ -106,6 +106,9 @@
 
         .picture {
             grid-column: 1/span 2;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            grid-gap: 24px 24px;
         }
 
     </style>

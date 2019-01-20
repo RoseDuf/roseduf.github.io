@@ -187,8 +187,13 @@
         <div class="skills">
             <table>
                 <tr>
-                    <td><img src="java_logo.png" alt="Java Logo" width="80" height="80"></td>
-                    <td><b>Java:</b> Most experienced with java as I've been using it for most of my time at Concordia University.</td>
+                    <td>
+                        <img src="java_logo.png" alt="Java Logo" width="80" height="80">
+                    </td>
+                    <td>
+                        <h4>Java:</h4> 
+                        <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
+                    </td>
                 </tr>
             </table>
         </div>

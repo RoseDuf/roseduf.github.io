@@ -104,27 +104,31 @@
             text-align: center;
         }
 
+        .picture {
+            grid-column: 1/span 2;
+        }
+
     </style>
 
     </head>
 
     <body>
-        <table>
-        <tr>
-            <td> 
+        <div class="picture">
+        
+            <div> 
                 <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300">
-            </td>
+            </div>
 
-            <td>
+            <div>
                 <h1 class="name"> Rose Dufresne </h1>
                 <div> Welcome to my website! </div>
                 <div> 
                     <p><a href="CV-english.pdf"> CV </a></p>
                 </div>
-            </td>
-        </tr>
+            </div>
+        
 
-        </table>
+        </div>
 
         <div class="introduction">
         <h3> Introduction </h3>

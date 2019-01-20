@@ -163,14 +163,12 @@
         <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
 
         <div class="projects">
-              
             <video width="480" height="270" autoplay loop>
                 <source src="RoseD_Monster_ANI.mov" type="video/mp4">
                 <source src="RoseD_Monster_ANI.mov" type="video/ogg">
                 Your browser does not support the video tag.
             </video>
-        </div>           
-        <div>           
+
             <h4> Monster Bat </h4>
             <p>(Made using Blender)</p>
             <p>
@@ -178,8 +176,21 @@
             </p>
             <p>
                 I really enjoyed making this project and would like to further my knowledge in 3D animation in the future. I have used Unity in the class and am planning on getting more experience with that engine to make models such as this one and using them in games.
-            </p>
-                    
+            </p>     
+        </div>
+
+        <div class="projects">
+            <!-- chicken rush -->
+        </div>
+
+        <h3>Skills</h3>
+        <div class="skills">
+            <table>
+                <tr>
+                    <td><img src="java_logo.png" alt="Java Logo" width="80" height="80"></td>
+                    <td><b>Java:</b> Most experienced with java as I've been using it for most of my time at Concordia University.</td>
+                </tr>
+            </table>
         </div>
 
 

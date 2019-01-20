@@ -165,6 +165,7 @@
                         <video width="960" height="540" autoplay loop>
                         <source src="RoseD_Monster_ANI.mov" type="video/mp4">
                         Your browser does not support the video tag.
+                        </video>
                     </td>
                     <td></td>
                 </tr>

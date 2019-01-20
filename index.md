@@ -45,12 +45,24 @@
         } 
 
         .gd {
-            text-align: center;
-            background-color: #99ff99;
+            background-color: #ff4d4d;
             border-radius: 10px;
+            border: 10px solid #ff3333;
         }
 
         .gd-title {
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .cs {
+            background-color: #ff944d;
+            border-radius: 10px;
+            border: 10px solid #ff8533;
+        }
+
+        .cs-title {
+            text-align: center;
             font-weight: bold;
         }
 
@@ -116,6 +128,25 @@
             <ul>
                 <li>3D Digital Production - CART 361</li>
                 <li>Computation Arts I - CART 253</li>
+            </ul>  
+        </div>
+
+        <div class="cs">
+            <p class="cs-title">
+                Computer Applications Major (BCompS)
+            </p>
+            <p>
+                Relevant courses I have taken:
+            </p>
+            <ul>
+                <li>Object-Oriented Programming I, II - COMP 248, COMP 249</li>
+                <li>Data Structures and Algorithms - COMP 352</li>
+                <li>Web Programming - SOEN 287</li>
+                <li>Introduction to Software Engineering - COMP 354</li>
+                <li>Introduction to Theoretical Computer Science - COMP 335</li>
+                <li>Computer Graphics - COMP 371 (currently taking)</li>
+                <li>Databases - COMP 353 (currently taking)</li>
+                <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
             </ul>  
         </div>
 

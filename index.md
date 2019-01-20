@@ -4,6 +4,37 @@
         <title> Rose Dufresne </title>
 
     <style>
+
+        .inner {
+            width: 80%;
+            margin: auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 24px 24px;
+        }
+
+        .introduction {
+            grid-column: 1/span 2;
+        }
+
+        .education {
+            grid-column: 1;
+        }
+
+        .projects {
+            grid-column: 2;
+        }
+
+        .skills {
+            grid-column: 1;
+        }
+
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
         .intro {
             color: black;
             text-align: center;
@@ -69,7 +100,7 @@
             font-weight: bold;
         }
 
-        .projects {
+        .proj {
             text-align: center;
         }
 
@@ -88,13 +119,14 @@
                 <h1 class="name"> Rose Dufresne </h1>
                 <div> Welcome to my website! </div>
                 <div> 
-                    <p><a href="CV-english.pdf download"> CV </a></p>
+                    <p><a href="CV-english.pdf"> CV </a></p>
                 </div>
             </td>
         </tr>
 
         </table>
 
+        <div class="introduction">
         <h3> Introduction </h3>
         <div class="intro">
             <p> 
@@ -113,7 +145,9 @@
             That being said, I will go through the different languages I've learned during the years.
             </p>
         </div>
+        </div>
 
+        <div class="education">
         <h3> Education </h3>
         <div class="edu">
             <p>
@@ -160,11 +194,13 @@
                 <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
             </ul>  
         </div>
+        </div>
 
+        <div class="projects">
         <h3> Projects </h3>
         <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
 
-        <div class="projects">
+        <div class="proj">
             <video width="480" height="270" autoplay loop>
                 <source src="RoseD_Monster_ANI.mov" type="video/mp4">
                 <source src="RoseD_Monster_ANI.mov" type="video/ogg">
@@ -183,12 +219,14 @@
             </p>     
         </div>
 
-        <div class="projects">
+        <div class="proj">
             <!-- chicken rush -->
         </div>
+        </div>
 
-        <h3>Skills</h3>
         <div class="skills">
+        <h3>Skills</h3>
+        <div class="ski">
             <table>
                 <tr>
                     <td>
@@ -200,6 +238,7 @@
                     </td>
                 </tr>
             </table>
+        </div>
         </div>
 
 

@@ -45,9 +45,9 @@
         } 
 
         .gd {
-            background-color: #ff9999;
+            background-color: #ffa366;
             border-radius: 10px;
-            border: 10px solid #ff6666;
+            border: 10px solid #ff8533;
             color: black;
         }
 
@@ -57,10 +57,11 @@
         }
 
         .cs {
-            background-color: #ff944d;
+            background-color: #ff8080;
             border-radius: 10px;
-            border: 10px solid #ff8533;
+            border: 10px solid #ff6666;
             color: black;
+            
         }
 
         .cs-title {
@@ -133,6 +134,8 @@
             </ul>  
         </div>
 
+        <div></div>
+
         <div class="cs">
             <p class="cs-title">
                 Computer Applications Major (BCompS)
@@ -150,6 +153,18 @@
                 <li>Databases - COMP 353 (currently taking)</li>
                 <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
             </ul>  
+        </div>
+
+        <h3> Projects </h3>
+        <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
+
+        <div class="projects">
+            <table>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
         </div>
 
 

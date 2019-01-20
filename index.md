@@ -57,9 +57,9 @@
         }
 
         .cs {
-            background-color: #ff8080;
+            background-color: #ffa366;
             border-radius: 10px;
-            border: 10px solid #ff6666;
+            border: 10px solid #ff8533;
             color: black;
             
         }
@@ -134,7 +134,7 @@
             </ul>  
         </div>
 
-        <div></div>
+        <p></p>
 
         <div class="cs">
             <p class="cs-title">
@@ -161,7 +161,11 @@
         <div class="projects">
             <table>
                 <tr>
-                    <td></td>
+                    <td>
+                        <video width="960" height="540" autoplay loop>
+                        <source src="RoseD_Monster_ANI.mov" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </td>
                     <td></td>
                 </tr>
             </table>

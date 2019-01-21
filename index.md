@@ -270,7 +270,6 @@
                 </div>
                 <div class="lang">
                     <h4>C</h4> 
-                    <p></p>
                 </div>
             </div>
 
@@ -280,7 +279,6 @@
                 </div>
                 <div class="lang">
                     <h4>Ruby</h4> 
-                    <p></p>
                 </div>
             </div>
 
@@ -290,7 +288,6 @@
                 </div>
                 <div class="lang">
                     <h4>CLisp</h4> 
-                    <p></p>
                 </div>
             </div>
             </div>

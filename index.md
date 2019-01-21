@@ -118,6 +118,7 @@
 
         .icon {
             text-align: center;
+            padding-top: 30px;
         }
 
     </style>
@@ -219,7 +220,38 @@
                     <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
                 </div>
             </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/javascript_logo.png" alt="JS Logo" width="80" height="80">
+                </div>
+                <div class="lang">
+                    <h4>Javascript:</h4> 
+                    <p>Used it for my web programming class and for the creation of the "Zorkemon" group project (which can be found on my github page)</p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/prolog_logo.png" alt="Prolog Logo" width="80" height="80">
+                </div>
+                <div class="lang">
+                    <h4>Prolog:</h4> 
+                    <p>Used it the most for helping in the creation of the "Zorkemon" compiler</p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/c_logo.png" alt="C Logo" width="80" height="80">
+                </div>
+                <div class="lang">
+                    <h4>C</h4> 
+                    <p></p>
+                </div>
+            </div>
         </div>
+
 
         <div class="projects">
             <h3> Projects </h3>

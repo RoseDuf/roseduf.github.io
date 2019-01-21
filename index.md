@@ -325,12 +325,6 @@
                     <p>Used this software for the making of my game "Chicken Rush"</p>
                 </div>
                 </div>
-        </div>
-
-        <div class="edu">
-            <div>
-                Web Development:
-            </div>
                 <div class="ski">
                 <div class="icon">
                     <img src="static/blender_logo.png" alt="Blender Logo" width="60" height="60">
@@ -340,6 +334,13 @@
                     <p>3D modeling and animation software used for making my "Monster Bat" project</p>
                 </div>
                 </div>
+        </div>
+
+        <div class="edu">
+            <div>
+                Web Development:
+            </div>
+                
         </div>
 
             <div class="edu">

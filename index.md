@@ -132,7 +132,11 @@
 
         .icon {
             text-align: center;
-            padding-top: 30px;
+            padding-top: 26px;
+        }
+
+        .icon2 {
+            text-align: center;
         }
 
         .group {
@@ -142,20 +146,14 @@
 
         .c {
             grid-column: 1;
-            grid-template-rows: 1fr 4fr;
-            display: grid;
         }
         
         .ruby {
             grid-column: 2;
-            grid-template-rows: 1fr 4fr;
-            display: grid;
         }
         
         .clisp {
             grid-column: 3;
-            grid-template-rows: 1fr 4fr;
-            display: grid;
         }
 
     </style>
@@ -278,29 +276,30 @@
 
             <div class="group">
             <div class="c">
-                <div class="icon">
+                <div class="icon2">
                     <img src="static/c_logo.png" alt="C Logo" width="60" height="60">
-                </div>
-                <div>
+                    <div>
                     <h4>C</h4> 
+                    </div>
                 </div>
             </div>
 
             <div class="ruby">
-                <div class="icon">
+                <div class="icon2">
                     <img src="static/ruby_logo.png" alt="Ruby Logo" width="60" height="60">
-                </div>
-                <div>
+                    <div>
                     <h4>Ruby</h4> 
+                    </div>
                 </div>
+                
             </div>
 
             <div class="clisp">
-                <div class="icon">
+                <div class="icon2">
                     <img src="static/clisp_logo.png" alt="CLisp Logo" width="60" height="60">
-                </div>
-                <div>
+                    <div>
                     <h4>CLisp</h4> 
+                    </div>
                 </div>
             </div>
             </div> <!-- end of group class -->

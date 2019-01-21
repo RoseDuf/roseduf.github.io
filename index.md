@@ -35,6 +35,10 @@
             padding-top: 25px;
         }
 
+        .header {
+            text-aligh: center;
+        }
+
         .introduction {
             grid-column: 1/span 2;
         }
@@ -49,6 +53,7 @@
 
         .skills {
             grid-column: 2;
+            grid-template-column: 1fr 3fr;
         }
 
         .ski {
@@ -103,6 +108,10 @@
             grid-column: 1/span 2;
         }
 
+        .icon {
+            grid-column: 2;
+        }
+
     </style>
 
     </head>
@@ -125,7 +134,7 @@
         </div>
 
         <div class="introduction">
-            <h3> Introduction </h3>
+            <h3 class="header"> Introduction </h3>
             <div class="intro">
                 <p> 
                 I am a third year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
@@ -197,7 +206,7 @@
                 <div>
                     <img src="static/java_logo.png" alt="Java Logo" width="80" height="80">
                 </div>
-                <div>
+                <div class="icon">
                     <h4>Java:</h4> 
                     <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
                 </div>

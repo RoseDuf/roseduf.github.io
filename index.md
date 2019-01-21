@@ -11,11 +11,6 @@
             text-transform: uppercase;
         }
 
-        body {
-            margin: 0;
-            background: #2a2a2a;
-        }
-
         .outer {
             width: 80%;
             margin: auto;
@@ -46,15 +41,16 @@
             grid-column: 1;
         }
 
-        .class {
-            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-            font-size: 30px;
+        .ski {
+            grid-column: 1/span 2;
         }
 
         body {
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-size: 16px;
             line-height: 1.5;
+            margin: 0;
+            background: #2a2a2a;
         }
 
         .intro {
@@ -67,6 +63,8 @@
         .name {
             vertical-align: top;
             color: black;
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 30px;
         }       
 
         .edu {
@@ -246,45 +244,3 @@
     </body>
 
 </html>
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/RoseDuf/roseduf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RoseDuf/roseduf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Testing

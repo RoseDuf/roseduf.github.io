@@ -247,7 +247,7 @@
 
         <div class="skills">
             <h3>Skills</h3>
-            <div class="edu>
+            <div class="edu">
                 <div>
                     Programming languages:
                 </div>

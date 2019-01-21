@@ -10,7 +10,7 @@
             font-weight: 400;
             text-transform: uppercase;
         }
-        
+
         body {
             margin: 0;
             background: #2a2a2a;
@@ -21,7 +21,6 @@
             margin: auto;
             background: #fcfcfc;
         }
-    
 
         .inner {
             width: 90%;
@@ -47,6 +46,11 @@
             grid-column: 1;
         }
 
+        .class {
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 30px;
+        }
+
         body {
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
             font-size: 16px;
@@ -55,32 +59,9 @@
 
         .intro {
             color: black;
-            text-align: center;
             font-size: 16px;
             padding: 15px;
-            border: 10px solid #ff99bb;
             background-color: pink;
-            border-radius: 10px;
-        }
-
-        table {
-            vertical-align: top;
-            border: none;
-        }
-
-        tbody {
-            vertical-align: top;
-            border: none;
-        }
-
-        tr {
-            vertical-align: top;
-            border: none;
-        }
-
-        td {
-            vertical-align: top;
-            border: none;
         }
 
         .name {
@@ -110,7 +91,6 @@
             border-radius: 10px;
             border: 10px solid #ff8533;
             color: black;
-            
         }
 
         .cs-title {
@@ -141,7 +121,7 @@
             </div>
 
             <div>
-                <h1 class="name"> Rose Dufresne </h1>
+                <div class="name"> Rose Dufresne </div>
                 <div> Welcome to my website! </div>
                 <div> 
                     <p><a href="CV-english.pdf"> CV </a></p>
@@ -252,17 +232,13 @@
         <div class="skills">
         <h3>Skills</h3>
         <div class="ski">
-            <table>
-                <tr>
-                    <td>
-                        <img src="java_logo.png" alt="Java Logo" width="80" height="80">
-                    </td>
-                    <td>
-                        <h4>Java:</h4> 
-                        <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
-                    </td>
-                </tr>
-            </table>
+            <div>
+                <img src="static/java_logo.png" alt="Java Logo" width="80" height="80">
+            </div>
+            <div>
+                <h4>Java:</h4> 
+                <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
+            </div>
         </div>
         </div>
 

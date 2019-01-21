@@ -53,11 +53,11 @@
 
         .skills {
             grid-column: 2;
-            grid-template-column: 1fr 3fr;
         }
 
         .ski {
-            grid-column: 1/span 2;
+            grid-template-columns: 1fr 4fr;
+            display: grid;
         }
 
         .intro {
@@ -81,6 +81,8 @@
         .edu {
             font-size: 18px;
             font-weight: bold;
+            grid-template-columns: 2fr 1fr;
+            display: grid;
         } 
 
         .gd-title {
@@ -105,11 +107,17 @@
         }
 
         .date {
-            grid-column: 1/span 2;
+            grid-column: 2;
+            font-size: 14px;
+            padding-top: 5px;
+        }
+
+        .lang {
+            grid-column: 2;
         }
 
         .icon {
-            grid-column: 2;
+            text-align: center;
         }
 
     </style>
@@ -167,7 +175,7 @@
 
             <div class="gd">
                 <p class="gd-title">
-                    Game Design Minor
+                    <u>Game Design Minor</u>
                 </p>
                 <p>
                     Relevant courses I have taken:
@@ -182,7 +190,7 @@
 
             <div class="cs">
                 <p class="cs-title">
-                    Computer Applications Major (BCompS)
+                    <u>Computer Applications Major (BCompS)</u>
                 </p>
                 <p>
                     Relevant courses I have taken:
@@ -203,10 +211,10 @@
         <div class="skills">
             <h3>Skills</h3>
             <div class="ski">
-                <div>
+                <div class="icon">
                     <img src="static/java_logo.png" alt="Java Logo" width="80" height="80">
                 </div>
-                <div class="icon">
+                <div class="lang">
                     <h4>Java:</h4> 
                     <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
                 </div>

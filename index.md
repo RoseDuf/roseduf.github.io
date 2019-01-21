@@ -114,6 +114,7 @@
 
         .lang {
             grid-column: 2;
+            font-size: 12px;
         }
 
         .icon {
@@ -213,7 +214,7 @@
             <h3>Skills</h3>
             <div class="ski">
                 <div class="icon">
-                    <img src="static/java_logo.png" alt="Java Logo" width="80" height="80">
+                    <img src="static/java_logo.png" alt="Java Logo" width="60" height="60">
                 </div>
                 <div class="lang">
                     <h4>Java:</h4> 
@@ -223,7 +224,7 @@
 
             <div class="ski">
                 <div class="icon">
-                    <img src="static/javascript_logo.png" alt="JS Logo" width="80" height="80">
+                    <img src="static/javascript_logo.png" alt="JS Logo" width="60" height="60">
                 </div>
                 <div class="lang">
                     <h4>Javascript:</h4> 
@@ -233,7 +234,7 @@
 
             <div class="ski">
                 <div class="icon">
-                    <img src="static/prolog_logo.png" alt="Prolog Logo" width="80" height="80">
+                    <img src="static/prolog_logo.png" alt="Prolog Logo" width="60" height="60">
                 </div>
                 <div class="lang">
                     <h4>Prolog:</h4> 
@@ -243,10 +244,30 @@
 
             <div class="ski">
                 <div class="icon">
-                    <img src="static/c_logo.png" alt="C Logo" width="80" height="80">
+                    <img src="static/c_logo.png" alt="C Logo" width="60" height="60">
                 </div>
                 <div class="lang">
                     <h4>C</h4> 
+                    <p></p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/ruby_logo.png" alt="Ruby Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>Ruby</h4> 
+                    <p></p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/clisp_logo.png" alt="CLisp Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>CLisp</h4> 
                     <p></p>
                 </div>
             </div>

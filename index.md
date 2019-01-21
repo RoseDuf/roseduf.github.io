@@ -137,6 +137,9 @@
 
         .icon2 {
             text-align: center;
+            font-size: 12px;
+            line-height: 0.3;
+            padding-top: 10px;
         }
 
         .group {
@@ -244,6 +247,11 @@
 
         <div class="skills">
             <h3>Skills</h3>
+            <div class="edu>
+                <div>
+                    Programming languages:
+                </div>
+            </div>
             <div class="ski">
                 <div class="icon">
                     <img src="static/java_logo.png" alt="Java Logo" width="60" height="60">
@@ -304,7 +312,23 @@
             </div>
             </div> <!-- end of group class -->
 
-            <div></div>
+            <div class="edu">
+                <div>
+                    Game Design:
+                </div>
+            </div>
+
+            <div class="edu">
+                <div>
+                    Web Development:
+                </div>
+            </div>
+
+            <div class="edu">
+                <div>
+                    Tools:
+                </div>
+            </div>
         </div>
 
 

@@ -129,20 +129,24 @@
 
         .c {
             grid-column: 1;
-            grid-template-columns: 1fr 4fr;
+            grid-template-rows: 1fr 4fr;
             display: grid;
         }
         
         .ruby {
             grid-column: 2;
-            grid-template-columns: 1fr 4fr;
+            grid-template-rows: 1fr 4fr;
             display: grid;
         }
         
         .clisp {
             grid-column: 3;
-            grid-template-columns: 1fr 4fr;
+            grid-template-rows: 1fr 4fr;
             display: grid;
+        }
+
+        .lang2 {
+            grid-row: 2;
         }
 
     </style>
@@ -268,7 +272,7 @@
                 <div class="icon">
                     <img src="static/c_logo.png" alt="C Logo" width="60" height="60">
                 </div>
-                <div class="lang">
+                <div class="lang2">
                     <h4>C</h4> 
                 </div>
             </div>
@@ -277,7 +281,7 @@
                 <div class="icon">
                     <img src="static/ruby_logo.png" alt="Ruby Logo" width="60" height="60">
                 </div>
-                <div class="lang">
+                <div class="lang2">
                     <h4>Ruby</h4> 
                 </div>
             </div>
@@ -286,7 +290,7 @@
                 <div class="icon">
                     <img src="static/clisp_logo.png" alt="CLisp Logo" width="60" height="60">
                 </div>
-                <div class="lang">
+                <div class="lang2">
                     <h4>CLisp</h4> 
                 </div>
             </div>

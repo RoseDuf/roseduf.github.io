@@ -11,10 +11,19 @@
             text-transform: uppercase;
         }
 
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            margin: 0;
+            background: #2a2a2a;
+        }
+
         .outer {
             width: 80%;
             margin: auto;
             background: #fcfcfc;
+            padding-top: 25px;
         }
 
         .inner {
@@ -23,6 +32,7 @@
             display: grid;
             grid-template-columns: 1fr 1fr;
             grid-gap: 24px 24px;
+            padding-top: 25px;
         }
 
         .introduction {
@@ -45,14 +55,6 @@
             grid-column: 1/span 2;
         }
 
-        body {
-            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-            font-size: 16px;
-            line-height: 1.5;
-            margin: 0;
-            background: #2a2a2a;
-        }
-
         .intro {
             color: black;
             font-size: 16px;
@@ -64,7 +66,7 @@
             vertical-align: top;
             color: black;
             font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-            font-size: 30px;
+            font-size: 90px;
         }       
 
         .edu {
@@ -107,6 +109,10 @@
             grid-gap: 24px 24px;
         }
 
+        .date {
+            grid-column: 1/span 2;
+        }
+
     </style>
 
     </head>
@@ -120,7 +126,6 @@
 
             <div>
                 <div class="name"> Rose Dufresne </div>
-                <div> Welcome to my website! </div>
                 <div> 
                     <p><a href="CV-english.pdf"> CV </a></p>
                 </div>
@@ -153,15 +158,12 @@
         <div class="education">
         <h3> Education </h3>
         <div class="edu">
-            <p>
-                <b>Concordia University, Montreal, QC</b>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div>
+                Concordia University, Montreal, QC
+            </div>
+            <div class="date">
                 (from 2016 until now)
-            </p>
+            </div>
         </div>
 
         <div class="gd">

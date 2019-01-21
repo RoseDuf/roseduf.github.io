@@ -122,6 +122,29 @@
             padding-top: 30px;
         }
 
+        .group {
+            grid-template-columns: 1fr 1fr 1fr
+            display: grid;
+        }
+
+        .c {
+            grid-column: 1;
+            grid-template-columns: 1fr 4fr;
+            display: grid;
+        }
+        
+        .ruby {
+            grid-column: 2;
+            grid-template-columns: 1fr 4fr;
+            display: grid;
+        }
+        
+        .clisp {
+            grid-column: 3;
+            grid-template-columns: 1fr 4fr;
+            display: grid;
+        }
+
     </style>
 
     </head>
@@ -139,8 +162,6 @@
                     <p><a href="CV-english.pdf"> CV </a></p>
                 </div>
             </div>
-        
-
         </div>
 
         <div class="introduction">
@@ -238,11 +259,12 @@
                 </div>
                 <div class="lang">
                     <h4>Prolog:</h4> 
-                    <p>Used it the most for helping in the creation of the "Zorkemon" compiler</p>
+                    <p>Used it the most for helping in the creation of the "Zorkemon" card parser</p>
                 </div>
             </div>
 
-            <div class="ski">
+            <div class="group">
+            <div class="c">
                 <div class="icon">
                     <img src="static/c_logo.png" alt="C Logo" width="60" height="60">
                 </div>
@@ -252,7 +274,7 @@
                 </div>
             </div>
 
-            <div class="ski">
+            <div class="ruby">
                 <div class="icon">
                     <img src="static/ruby_logo.png" alt="Ruby Logo" width="60" height="60">
                 </div>
@@ -262,7 +284,7 @@
                 </div>
             </div>
 
-            <div class="ski">
+            <div class="clisp">
                 <div class="icon">
                     <img src="static/clisp_logo.png" alt="CLisp Logo" width="60" height="60">
                 </div>
@@ -270,6 +292,7 @@
                     <h4>CLisp</h4> 
                     <p></p>
                 </div>
+            </div>
             </div>
         </div>
 

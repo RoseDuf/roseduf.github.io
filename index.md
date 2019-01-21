@@ -354,7 +354,7 @@
 
         <div class="ski">
             <div class="icon">
-                <img src="static/html_css_js_logo.png" alt="HTML Logo" width="60" height="180">
+                <img src="static/html_css_js_logo.png" alt="HTML Logo" width="180" height="60">
             </div>
             <div class="lang">
                 <h4>HTML, CSS, Javascript:</h4> 

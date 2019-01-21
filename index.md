@@ -317,7 +317,8 @@
                 Game Design:
             </div>
         </div>
-            <div class="ski">
+
+        <div class="ski">
             <div class="icon">
                 <img src="static/processing_logo.png" alt="Processing Logo" width="60" height="60">
             </div>
@@ -325,9 +326,9 @@
                 <h4>Processing:</h4> 
                 <p>Used this software for the making of my game "Chicken Rush"</p>
             </div>
-            </div>
+        </div>
 
-            <div class="ski">
+        <div class="ski">
             <div class="icon">
                 <img src="static/blender_logo.png" alt="Blender Logo" width="60" height="60">
             </div>
@@ -335,22 +336,21 @@
                 <h4>Blender:</h4> 
                 <p>3D modeling and animation software used for making my "Monster Bat" project</p>
             </div>
-            </div>
         </div>
 
         <div class="edu">
             <div>
                 Web Development:
-            </div>
-                
+            </div> 
         </div>
 
-            <div class="edu">
-                <div>
-                    Tools:
-                </div>
+        <div class="edu">
+            <div>
+                Tools:
             </div>
         </div>
+
+        </div> <!-- end of skills class -->
 
 
         <div class="projects">

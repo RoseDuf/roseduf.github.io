@@ -294,7 +294,9 @@
                     <h4>CLisp</h4> 
                 </div>
             </div>
-            </div>
+            </div> <!-- end of group class -->
+
+            <div></div>
         </div>
 
 

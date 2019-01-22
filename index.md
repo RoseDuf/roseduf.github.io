@@ -67,7 +67,7 @@
         }
 
         .projects {
-            grid-column: 1;
+            grid-column: 1/span 2;
             grid-template-columns: 1fr 1fr;
             display: grid;
         }
@@ -484,10 +484,12 @@
 
 
         <div class="projects">
-        
+
+            <div>
             <h3> Projects </h3>
             <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
-            
+            </div>
+
         <div class="proj-1">
             <div class="proj">
                 <video width="480" height="270" autoplay loop>

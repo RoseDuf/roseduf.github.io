@@ -20,7 +20,7 @@
         }
 
         .background {
-            background-image: linear-gradient(white, transparent 70%), url("Rose_Dufresne_img.jpg");
+            background-image: linear-gradient(white, transparent 70%), url('');
             background-size: 100% 100%;
             background-position: 0% 0%;
             background-blend-mode: screen; /* so many of them */

@@ -59,7 +59,7 @@
         .education {
             grid-column: 1;
             grid-template-rows: 1fr 1fr;
-            grid-display: grid;
+            display: grid;
         }
 
         .edu-grid {

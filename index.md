@@ -20,7 +20,7 @@
         }
 
         .background {
-            background-image: linear-gradient(white, transparent 70%), url('');
+            background-image: linear-gradient(white, transparent 70%), url("Rose_Dufresne_img.jpg");
             background-size: 100% 100%;
             background-position: 0% 0%;
             background-blend-mode: screen; /* so many of them */
@@ -159,7 +159,6 @@
         }
 
         .edu-color {
-            background-color: #66ff66;
         }
 
         .c {
@@ -503,7 +502,8 @@
         </div>
 
         
-
+    <div class="background">
+    </div>
 
     </body>
 

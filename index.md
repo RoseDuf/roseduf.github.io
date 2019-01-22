@@ -58,6 +58,12 @@
 
         .education {
             grid-column: 1;
+            grid-template-rows: 1fr 1fr;
+            grid-display: grid;
+        }
+
+        .edu-grid {
+            grid-row: 1;
         }
 
         .projects {
@@ -121,6 +127,7 @@
 
         .learning {
             align-self: end;
+            grid-row: 2;
         }
 
         .date {
@@ -216,6 +223,8 @@
         </div>
 
         <div class="education">
+
+            <div class="edu-grid">
             <h3> Education </h3>
             <div class="edu-color">
                 <div class="edu">
@@ -260,7 +269,8 @@
                         <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
                     </ul>  
                 </div>
-            </div>
+            </div> <!-- end of edu color class -->
+            </div> <!-- end of edu-grid class -->
 
         <div class="learning">
             <div class="edu">
@@ -299,7 +309,7 @@
                 </div>
             </div>
         
-        </div>
+        </div> <!-- end of learning class -->
 
         </div> <!-- end of education class -->
 

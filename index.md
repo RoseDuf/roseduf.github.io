@@ -68,6 +68,8 @@
 
         .projects {
             grid-column: 1;
+            grid-template-columns: 1fr 1fr;
+            display: grid;
         }
 
         .skills {
@@ -178,6 +180,14 @@
         }
 
         .bash {
+            grid-column: 2;
+        }
+
+        .proj-1 {
+            grid-column: 1;
+        }
+
+        .proj-2 {
             grid-column: 2;
         }
 
@@ -474,9 +484,11 @@
 
 
         <div class="projects">
+        
             <h3> Projects </h3>
             <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
-
+            
+        <div class="proj-1">
             <div class="proj">
                 <video width="480" height="270" autoplay loop>
                     <source src="RoseD_Monster_ANI.mov" type="video/mp4">
@@ -495,15 +507,16 @@
                     I really enjoyed making this project and would like to further my knowledge in 3D animation in the future. I have used Unity in the class and am planning on getting more experience with that engine to make models such as this one and using them in games.
                 </p>     
             </div>
+        </div> <!-- end of proj-1 class -->
 
-            <div class="proj">
-               <!-- chicken rush -->
-            </div>
-        </div>
+        <div class="proj-2">
+               <h3></h3>
 
-        
-    <div class="background">
-    </div>
+        </div> <!-- end of proj-2 class -->
+
+        </div> <!-- end of projects class -->
+
+    
 
     </body>
 

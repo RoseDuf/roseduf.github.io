@@ -119,6 +119,10 @@
             grid-gap: 24px 24px;
         }
 
+        .learning {
+            align-self: end;
+        }
+
         .date {
             grid-column: 2;
             font-size: 14px;
@@ -145,6 +149,10 @@
         .group {
             grid-template-columns: 1fr 1fr 1fr;
             display: grid;
+        }
+
+        .edu-color {
+            background-color: #66ff66;
         }
 
         .c {
@@ -209,86 +217,91 @@
 
         <div class="education">
             <h3> Education </h3>
+            <div class="edu-color">
+                <div class="edu">
+                    <div>
+                        Concordia University, Montreal, QC
+                    </div>
+                    <div class="date">
+                        (from 2016 until now)
+                    </div>
+                </div>
+
+                <div class="gd">
+                    <p class="gd-title">
+                        <u>Game Design Minor</u>
+                    </p>
+                    <p>
+                        Relevant courses I have taken:
+                    </p>
+                    <ul>
+                        <li>3D Digital Production - CART 361</li>
+                        <li>Computation Arts I - CART 253</li>
+                    </ul>  
+                </div>
+            
+                <p></p>
+
+                <div class="cs">
+                    <p class="cs-title">
+                        <u>Computer Applications Major (BCompS)</u>
+                    </p>
+                    <p>
+                        Relevant courses I have taken:
+                    </p>
+                    <ul>
+                        <li>Object-Oriented Programming I, II - COMP 248, COMP 249</li>
+                        <li>Data Structures and Algorithms - COMP 352</li>
+                        <li>Web Programming - SOEN 287</li>
+                        <li>Introduction to Software Engineering - COMP 354</li>
+                        <li>Introduction to Theoretical Computer Science - COMP 335</li>
+                        <li>Computer Graphics - COMP 371 (currently taking)</li>
+                        <li>Databases - COMP 353 (currently taking)</li>
+                        <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
+                    </ul>  
+                </div>
+            </div>
+
+        <div class="learning">
             <div class="edu">
                 <div>
-                    Concordia University, Montreal, QC
-                </div>
-                <div class="date">
-                    (from 2016 until now)
+                    Currently learning how to use:
                 </div>
             </div>
 
-            <div class="gd">
-                <p class="gd-title">
-                    <u>Game Design Minor</u>
-                </p>
-                <p>
-                    Relevant courses I have taken:
-                </p>
-                <ul>
-                    <li>3D Digital Production - CART 361</li>
-                    <li>Computation Arts I - CART 253</li>
-                </ul>  
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/cpp_logo.png" alt="C++ Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>C++:</h4> 
+                    <p>Learning C++ in my "Advanced Program Design with C++" and "Computer Graphics" classes. However, I do have prior experience with the language</p>
+                </div>
             </div>
 
-            <p></p>
-
-            <div class="cs">
-                <p class="cs-title">
-                    <u>Computer Applications Major (BCompS)</u>
-                </p>
-                <p>
-                    Relevant courses I have taken:
-                </p>
-                <ul>
-                    <li>Object-Oriented Programming I, II - COMP 248, COMP 249</li>
-                    <li>Data Structures and Algorithms - COMP 352</li>
-                    <li>Web Programming - SOEN 287</li>
-                    <li>Introduction to Software Engineering - COMP 354</li>
-                    <li>Introduction to Theoretical Computer Science - COMP 335</li>
-                    <li>Computer Graphics - COMP 371 (currently taking)</li>
-                    <li>Databases - COMP 353 (currently taking)</li>
-                    <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
-                </ul>  
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>MySQL:</h4> 
+                    <p>Learning MySQL in my Databases class</p>
+                </div>
             </div>
 
-        <div class="edu">
-            <div>
-                Currently learning how to use:
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>C++:</h4> 
+                    <p>Learning how to use OpenGL in my "Computer Graphics" class</p>
+                </div>
             </div>
+        
         </div>
 
-        <div class="ski">
-            <div class="icon">
-                <img src="static/cpp_logo.png" alt="C++ Logo" width="60" height="60">
-            </div>
-            <div class="lang">
-                <h4>C++:</h4> 
-                <p>Learning C++ in my "Advanced Program Design with C++" and "Computer Graphics" classes. However, I do have prior experience with the language</p>
-            </div>
-        </div>
-
-        <div class="ski">
-            <div class="icon">
-                <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
-            </div>
-            <div class="lang">
-                <h4>MySQL:</h4> 
-                <p>Learning MySQL in my Databases class</p>
-            </div>
-        </div>
-
-        <div class="ski">
-            <div class="icon">
-                <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
-            </div>
-            <div class="lang">
-                <h4>C++:</h4> 
-                <p>Learning how to use OpenGL in my "Computer Graphics" class</p>
-            </div>
-        </div>
-
-        </div>
+        </div> <!-- end of education class -->
 
         
 

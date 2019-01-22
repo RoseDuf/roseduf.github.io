@@ -251,7 +251,47 @@
                     <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
                 </ul>  
             </div>
+
+        <div class="edu">
+            <div>
+                Currently learning how to use:
+            </div>
         </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/cpp_logo.png" alt="C++ Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>C++:</h4> 
+                <p>Learning C++ in my "Advanced Program Design with C++" and "Computer Graphics" classes. However, I do have prior experience with the language</p>
+            </div>
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>MySQL:</h4> 
+                <p>Learning MySQL in my Databases class</p>
+            </div>
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>C++:</h4> 
+                <p>Learning how to use OpenGL in my "Computer Graphics" class</p>
+            </div>
+        </div>
+
+        </div>
+
+        
+
 
         <div class="skills">
             <h3>Skills</h3>

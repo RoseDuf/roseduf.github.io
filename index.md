@@ -517,9 +517,10 @@
 
         <div class="proj-2">
             <div class="proj">
+                <img src="static/Chicken_Rush.PNG" alt="Chicken Rush Logo" width="480" height="270">
                 <h4>Chicken Rush</h4>
                 <p>(Made using Processing)</p>
-                <img src="static/Chicken_Rush.png" alt="Chicken Rush Logo" width="480" height="480">
+                
             </div>
 
         </div> <!-- end of proj-2 class -->

@@ -191,6 +191,10 @@
             grid-column: 2;
         }
 
+        .proj-header {
+            grid-column: 1/span 2;
+        }
+
     </style>
 
     </head>
@@ -485,9 +489,9 @@
 
         <div class="projects">
 
-            <div>
-            <h3> Projects </h3>
-            <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
+            <div class="proj-header">
+                <h3> Projects </h3>
+                <p> I would like to share with you guys some interesting projects and things I've learnt over the years </p>
             </div>
 
         <div class="proj-1">
@@ -512,7 +516,11 @@
         </div> <!-- end of proj-1 class -->
 
         <div class="proj-2">
-               <h3></h3>
+            <div class="proj">
+                <h4>Chicken Rush</h4>
+                <p>(Made using Processing)</p>
+                <img src="static/Chicken_Rush.png" alt="Chicken Rush Logo" width="480" height="480">
+            </div>
 
         </div> <!-- end of proj-2 class -->
 

@@ -280,6 +280,24 @@
                         <li>Advanced Program Design with C++ - COMP 345 </li>
                     </ul>  
                 </div>
+
+                <div class="taking">
+                    <p class="cs-title">
+                        <u> Courses I am currently taking OR going to take this year</u>
+                    </p>
+                    <p>
+                        Relevant courses:
+                    </p>
+                    <ul>
+                        <li>Introduction to Game Development - COMP 376</li>
+                        <li>Numerical Methods</li>
+                        <li>Advanced Game Development</li>
+                        <p>
+                            OR
+                        </p>
+                        <li>Computer Vision</li>
+                    </ul>  
+                </div>
             </div> <!-- end of edu color class -->
             </div> <!-- end of edu-grid class -->
 
@@ -322,17 +340,6 @@
                     <h4>C++:</h4> 
                     <p> Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a succesful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of.
                     </p>
-                </div>
-            </div>
-
-            <div class="ski">
-                <div class="icon">
-                    <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
-                </div>
-                <div class="lang">
-                    <h4>OpenGL:</h4> 
-                    <p> Used OpenGl to get first hand experience of Computer Graphics. Learned how
-                    to use callback functions using the GLM library, how to implement vector and fragment shaders that can be modified in the graphics pipeline of the GPU, how to use VAOs, VBOs and EBOs, how to compute realistic lighting such as Phong and Gouraud lighting methods, and finally, I learned how to compute shadows and textures. </p>
                 </div>
             </div>
 
@@ -401,6 +408,18 @@
         <div class="edu">
             <div>
                 Game Design:
+            </div>
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>OpenGL:</h4> 
+                <p> Used OpenGl to get first hand experience of Computer Graphics. Learned how
+                    to use callback functions using the GLM library, how to implement vector and fragment shaders that can be modified in the graphics pipeline of the GPU, how to use VAOs, VBOs and EBOs, how to compute realistic lighting such as Phong and Gouraud lighting methods, and finally, I learned how to compute shadows and textures. 
+                </p>
             </div>
         </div>
 

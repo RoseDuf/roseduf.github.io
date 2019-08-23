@@ -129,7 +129,7 @@
         }
 
         .learning {
-            align-self: end;
+            <!-- align-self: end; -->
             grid-row: 2;
         }
 

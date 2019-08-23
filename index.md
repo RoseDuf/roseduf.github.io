@@ -164,16 +164,20 @@
         .edu-color {
         }
 
-        .c {
+        .sql {
             grid-column: 1;
         }
-        
-        .ruby {
+
+        .c {
             grid-column: 2;
         }
         
-        .clisp {
+        .ruby {
             grid-column: 3;
+        }
+        
+        .clisp {
+            grid-column: 4;
         }
 
         .git {
@@ -303,10 +307,71 @@
 
         <div class="learning">
             <div class="edu">
-                <div>
+               <!-- <div>
                     Currently learning how to use:
+                </div> -->
+            </div>
+            <div class="edu">
+            <div>
+                Web Development:
+            </div> 
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/html_css_js_logo.png" alt="HTML Logo" width="80" height="60">
+            </div>
+            <div class="lang">
+                <h4>HTML, CSS, Javascript:</h4> 
+                <p>Fair amount of experience with these basic web development tools. For instance, I used them to make this website!</p>
+            </div>
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/vue_logo.png" alt="Vue Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>Vue.js:</h4> 
+                <p>Used vue.js to make the frontend and UI of the "Zorkemon" project</p>
+            </div>
+        </div>
+
+        <div class="ski">
+            <div class="icon">
+                <img src="static/php_logo.png" alt="PHP Logo" width="60" height="60">
+            </div>
+            <div class="lang">
+                <h4>PHP:</h4> 
+                <p>Used this language for my database project</p>
+            </div>
+        </div>
+
+        <div class="edu">
+            <div>
+                Tools:
+            </div>
+        </div>
+
+        <div class="group">
+            <div class="git">
+                <div class="icon2">
+                    <img src="static/git_logo.png" alt="Git Logo" width="60" height="60">
+                    <div>
+                    <h4>Git</h4> 
+                    </div>
                 </div>
             </div>
+
+            <div class="ruby">
+                <div class="icon2">
+                    <img src="static/ubuntu_logo.png" alt="Ubuntu Logo" width="60" height="60">
+                    <div>
+                    <h4>Bash (Ubuntu)</h4> 
+                    </div>
+                </div>
+            </div>
+        </div> <!-- end of group class -->
         
         </div> <!-- end of learning class -->
 
@@ -442,68 +507,6 @@
                 <p>3D modeling and animation software used for making my "Monster Bat" project</p>
             </div>
         </div>
-
-        <div class="edu">
-            <div>
-                Web Development:
-            </div> 
-        </div>
-
-        <div class="ski">
-            <div class="icon">
-                <img src="static/html_css_js_logo.png" alt="HTML Logo" width="80" height="60">
-            </div>
-            <div class="lang">
-                <h4>HTML, CSS, Javascript:</h4> 
-                <p>Fair amount of experience with these basic web development tools. For instance, I used them to make this website!</p>
-            </div>
-        </div>
-
-        <div class="ski">
-            <div class="icon">
-                <img src="static/vue_logo.png" alt="Vue Logo" width="60" height="60">
-            </div>
-            <div class="lang">
-                <h4>Vue.js:</h4> 
-                <p>Used vue.js to make the frontend and UI of the "Zorkemon" project</p>
-            </div>
-        </div>
-
-        <div class="ski">
-            <div class="icon">
-                <img src="static/php_logo.png" alt="PHP Logo" width="60" height="60">
-            </div>
-            <div class="lang">
-                <h4>PHP:</h4> 
-                <p>Will be using this for my database project</p>
-            </div>
-        </div>
-
-        <div class="edu">
-            <div>
-                Tools:
-            </div>
-        </div>
-
-        <div class="group">
-            <div class="git">
-                <div class="icon2">
-                    <img src="static/git_logo.png" alt="Git Logo" width="60" height="60">
-                    <div>
-                    <h4>Git</h4> 
-                    </div>
-                </div>
-            </div>
-
-            <div class="ruby">
-                <div class="icon2">
-                    <img src="static/ubuntu_logo.png" alt="Ubuntu Logo" width="60" height="60">
-                    <div>
-                    <h4>Bash (Ubuntu)</h4> 
-                    </div>
-                </div>
-            </div>
-            </div> <!-- end of group class -->
 
         </div> <!-- end of skills class -->
 

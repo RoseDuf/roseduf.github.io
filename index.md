@@ -222,16 +222,13 @@
                 I am a third year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
                 </p>
                 <p>
-                During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. 
+                During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. Furthermore, I've gained a particular interest in computer graphics. In fact, so much so that I would love to pursue a job that is closely related to computer graphics in the near future.
                 </p>
                 <p>
                 Thanks to my game design minor, I also had the opportunity to combine the very technical aspects of computer science with art! I have always been a very artistic person and I absolutely didn't want to let my talents go to waste, which is why I am very interested in creating games. It perfectly combines the mathematical and logical aspects of computer science with art, something that is very hard to find in professional fields. 
                 </p>
-                <p>
+                <p>  
                 When it comes to programming, one of my competences is my ability to learn new programming languages and softwares very quickly. Before applying to my major, I had no previous knowledge in coding. However, it only took me a couple of months to finally catch up to the standards of the classes I was taking, and even exceeded other students in my program.
-                </p>
-                <p>
-                That being said, I will go through the different languages I've learned during the years.
                 </p>
             </div>
         </div>
@@ -278,9 +275,9 @@
                         <li>Web Programming - SOEN 287</li>
                         <li>Introduction to Software Engineering - COMP 354</li>
                         <li>Introduction to Theoretical Computer Science - COMP 335</li>
-                        <li>Computer Graphics - COMP 371 (currently taking)</li>
-                        <li>Databases - COMP 353 (currently taking)</li>
-                        <li>Advanced Program Design with C++ - COMP 345 (currently taking)</li>
+                        <li>Computer Graphics - COMP 371 </li>
+                        <li>Databases - COMP 353 </li>
+                        <li>Advanced Program Design with C++ - COMP 345 </li>
                     </ul>  
                 </div>
             </div> <!-- end of edu color class -->
@@ -290,36 +287,6 @@
             <div class="edu">
                 <div>
                     Currently learning how to use:
-                </div>
-            </div>
-
-            <div class="ski">
-                <div class="icon">
-                    <img src="static/cpp_logo.png" alt="C++ Logo" width="60" height="60">
-                </div>
-                <div class="lang">
-                    <h4>C++:</h4> 
-                    <p>Learning C++ in my "Advanced Program Design with C++" and "Computer Graphics" classes. However, I do have prior experience with the language</p>
-                </div>
-            </div>
-
-            <div class="ski">
-                <div class="icon">
-                    <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
-                </div>
-                <div class="lang">
-                    <h4>MySQL:</h4> 
-                    <p>Learning MySQL in my Databases class</p>
-                </div>
-            </div>
-
-            <div class="ski">
-                <div class="icon">
-                    <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
-                </div>
-                <div class="lang">
-                    <h4>C++:</h4> 
-                    <p>Learning how to use OpenGL in my "Computer Graphics" class</p>
                 </div>
             </div>
         
@@ -349,11 +316,34 @@
 
             <div class="ski">
                 <div class="icon">
+                    <img src="static/cpp_logo.png" alt="C++ Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>C++:</h4> 
+                    <p> Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a succesful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of.
+                    </p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
+                    <img src="static/opengl_logo.png" alt="OpenGL Logo" width="60" height="60">
+                </div>
+                <div class="lang">
+                    <h4>OpenGL:</h4> 
+                    <p> Used OpenGl to get first hand experience of Computer Graphics. Learned how
+                    to use callback functions using the GLM library, how to implement vector and fragment shaders that can be modified in the graphics pipeline of the GPU, how to use VAOs, VBOs and EBOs, how to compute realistic lighting such as Phong and Gouraud lighting methods, and finally, I learned how to compute shadows and textures. </p>
+                </div>
+            </div>
+
+            <div class="ski">
+                <div class="icon">
                     <img src="static/javascript_logo.png" alt="JS Logo" width="60" height="60">
                 </div>
                 <div class="lang">
                     <h4>Javascript:</h4> 
-                    <p>Used it for my web programming class and for the creation of the "Zorkemon" group project (which can be found on my github page)</p>
+                    <p>Used it for my web programming class and for the creation of the "Zorkemon" group project (which can be found on my github page), as well as the ConUHacks
+                    API challenge sponsored by TouchTunes which my team and I have won! </p>
                 </div>
             </div>
 
@@ -366,8 +356,19 @@
                     <p>Used it the most for helping in the creation of the "Zorkemon" card parser</p>
                 </div>
             </div>
+            
 
             <div class="group">
+
+            <div class="sql">
+                <div class="icon">
+                    <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
+                </div>
+                <div>
+                <h4>MySQL/SQL</h4> 
+                </div>
+            </div>
+
             <div class="c">
                 <div class="icon2">
                     <img src="static/c_logo.png" alt="C Logo" width="60" height="60">

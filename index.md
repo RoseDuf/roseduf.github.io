@@ -342,7 +342,7 @@
                 </div>
                 <div class="lang">
                     <h4>C++:</h4> 
-                    <p> Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a succesful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of.
+                    <p> Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a successful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of.
                     </p>
                 </div>
             </div>
@@ -372,11 +372,11 @@
             <div class="group">
 
             <div class="sql">
-                <div class="icon">
+                <div class="icon2">
                     <img src="static/sql_logo.png" alt="SQL Logo" width="60" height="60">
-                </div>
-                <div>
-                <h4>MySQL/SQL</h4> 
+                    <div>
+                    <h4>MySQL/SQL</h4> 
+                    </div>
                 </div>
             </div>
 

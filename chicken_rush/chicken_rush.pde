@@ -210,6 +210,7 @@ class Chicken {
     imgarr = _imgarr;
   }
   
+  /*
   //getters and setters
   float getX(){return x;}
   void setX(float _x){x = _x;}
@@ -222,6 +223,7 @@ class Chicken {
   
   float getDefaultSpeed(){return defaultSpeed;}
   void setDefaultSpeed(float ds){defaultSpeed = ds;}
+  */
 
   // update()
   // Adds the chicken's current velocity to its position

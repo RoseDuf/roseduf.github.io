@@ -24,7 +24,7 @@
         </div>
 
 
-        <canvas data-processing-sources="../chicken_rush.pde"></canvas>
+        <canvas data-processing-sources="chicken_rush/chicken_rush.pde"></canvas>
         
 
     </body>

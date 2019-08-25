@@ -1,6 +1,5 @@
-//Exercise 08
 
-/* @pjs preload="chicken1.png,chicken2.png,chickenw1.png,chickenw2.png,grass.png,seedgold2.png,seedgreen.png,seedred.png,seed.png,seedgold1.png"; */
+/* @pjs preload="chicken1.png","chicken2.png","chickenw1.png","chickenw2.png","grass.png","seedgold2.png","seedgreen.png","seedred.png","seed.png","seedgold1.png"; */
 
 //sound
 //import processing.sound.*;
@@ -126,24 +125,10 @@ Timer t;
      }
    }
    
-   //collision counter
-   //for (int i=0; i<=multSeeds.size()-1; i++){
-   //  if ((chicken1.collidesWith(multSeeds.get(i)) == true) &&
-   //      (t.running == true)/*&&(multSeeds.get(i).showSeed)*/){
-   //    counter1 += 1; //why does this increment so much?!
-   //  }
-   //}
    textAlign(CENTER);
    textSize(30);
    text(counter1, 100, 50);
    
-   //collision counter
-   //for (int i=0; i<=multSeeds.size()-1; i++){
-   //  if ((chicken2.collidesWith(multSeeds.get(i)) == true) &&
-   //      (t.running == true)/*&&(multSeeds.get(i).showSeed)*/){
-   //    counter2 = counter2 + 1; //why does this increment so much?!
-   //  }
-   //}
    textAlign(CENTER);
    textSize(30);
    text(counter2, 540, 50);
@@ -209,21 +194,6 @@ class Chicken {
     size = tempSize;
     imgarr = _imgarr;
   }
-  
-  /*
-  //getters and setters
-  float getX(){return x;}
-  void setX(float _x){x = _x;}
-  
-  float getY(){return y;}
-  void setY(float _y){y = _y;}
-  
-  float getSpeed(){return speed;}
-  void setSpeed(float _speed){speed = _speed;}
-  
-  float getDefaultSpeed(){return defaultSpeed;}
-  void setDefaultSpeed(float ds){defaultSpeed = ds;}
-  */
 
   // update()
   // Adds the chicken's current velocity to its position

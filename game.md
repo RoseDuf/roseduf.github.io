@@ -2,8 +2,8 @@
 <html>
     <head>
         <title> Rose Dufresne </title>
-        <link rel="stylesheet" href="styles.css">
         <script type="text/javascript" src="processing.js"></script>
+        <link rel="stylesheet" href="styles.css">
     </head>
 
     <body>
@@ -24,7 +24,7 @@
         </div>
 
 
-        <canvas data-processing-sources="chicken_rush/chicken_rush.pde"></canvas>
+        <canvas procdata-processing-sources="chicken_rush.pde"></canvas>
         
 
     </body>

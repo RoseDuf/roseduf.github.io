@@ -18,7 +18,7 @@
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projects"><a href="projects.html"> Projects </a></div>
-                </nav>
+                    </div>
             </div>
         </div>
 

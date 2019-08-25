@@ -14,13 +14,11 @@
 
             <div>
                 <div class="name"> Rose Dufresne </div>
-                <nav> 
                     <div class="group">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projects"><a href="projects.html"> Projects </a></div>
                     </div>
-                </nav>
             </div>
         </div>
 

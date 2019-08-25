@@ -2,6 +2,7 @@
 <html>
     <head>
         <title> Rose Dufresne </title>
+        <script type="text/javascript" src="processing.js"></script>
         <script type="text/processing" data-processing-target="chicken">
             void setup() {
             size(200, 200);

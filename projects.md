@@ -14,7 +14,7 @@
 
             <div>
                 <div class="name"> Rose Dufresne </div>
-                    <div class="group">
+                    <div class="groupOf3">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projects"><a href="projects.html"> Projects </a></div>

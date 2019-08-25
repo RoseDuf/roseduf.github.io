@@ -14,7 +14,7 @@
 
             <div>
                 <div class="name"> Rose Dufresne </div>
-                    <div class="group">
+                    <div class="groupOf3">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projects"><a href="projects.html"> Projects </a></div>
@@ -108,19 +108,16 @@
             </div> <!-- end of edu color class -->
             </div> <!-- end of edu-grid class -->
 
-        <div class="learning">
-            <div class="edu">
-               <!-- <div>
-                    Currently learning how to use:
-                </div> -->
-            </div>
-            
-        </div> <!-- end of learning class -->
+            <div class="learning">
+                <div class="edu">
+                <!-- <div>
+                        Currently learning how to use:
+                    </div> -->
+                </div>
+                
+            </div> <!-- end of learning class -->
 
         </div> <!-- end of education class -->
-
-        
-
 
         <div class="skills">
             <h3>Skills</h3>
@@ -172,7 +169,7 @@
             </div>
             
 
-            <div class="group">
+            <div class="groupOf4">
 
             <div class="sql">
                 <div class="icon2">

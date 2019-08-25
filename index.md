@@ -15,9 +15,11 @@
             <div>
                 <div class="name"> Rose Dufresne </div>
                 <nav> 
-                    <p><a href="CV-english.pdf"> CV </a></p>
-                    <p><a href="index.html"> Home </a></p>
-                    <p><a href="projects.html"> Projects </a></p>
+                    <div class="navigation">
+                        <div><a href="CV-english.pdf"> CV </a></div>
+                        <div><a href="index.html"> Home </a></div>
+                        <div><a href="projects.html"> Projects </a></div>
+                    </div>
                 </nav>
             </div>
         </div>

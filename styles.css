@@ -151,9 +151,21 @@ body {
         }
 
 .group {
-            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
             display: grid;
         }
+
+.cv {
+    grid-column: 1;
+}
+
+.home {
+    grid-column: 2;
+}
+
+.projects {
+    grid-column: 3;
+}
 
 .edu-color {
         }

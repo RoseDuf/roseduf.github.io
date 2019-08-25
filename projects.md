@@ -83,6 +83,7 @@
                     <img src="static/Chicken_Rush.PNG" alt="Chicken Rush Logo" width="480" height="270">
                     <h4>Chicken Rush</h4>
                     <p>(Made using Processing)</p>
+                    <p><a href="game.html"> Game </a></p>
                 </div>
 
                 <div>

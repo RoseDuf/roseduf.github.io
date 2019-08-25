@@ -2,15 +2,6 @@
 <html>
     <head>
         <title> Rose Dufresne </title>
-        <script type="text/processing" data-processing-target="chicken">
-            void setup() {
-            size(200, 200);
-            background(100);
-            stroke(255);
-            ellipse(50, 50, 25, 25);
-            println('hello web!');
-            }
-        </script>
         <link rel="stylesheet" href="styles.css">
     </head>
 
@@ -31,7 +22,15 @@
             </div>
         </div>
 
-
+        <script type="text/processing" data-processing-target="chicken">
+            void setup() {
+            size(200, 200);
+            background(100);
+            stroke(255);
+            ellipse(50, 50, 25, 25);
+            println('hello web!');
+            }
+        </script>
         <!-- <canvas id="chicken" data-processing-sources="chicken_rush.pde" width="640" height="480"></canvas> -->
         
 

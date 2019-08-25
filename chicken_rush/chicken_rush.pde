@@ -1,6 +1,6 @@
 //Exercise 08
 
-/* @pjs preload="data/chicken1.png","data/chicken2.png","data/chickenw1.png", "data/chickenw2.png", "data/grass.png", "data/seedgold2.png", "data/seedgreen.png", "data/seedred.png", "data/seed.png", "data/seedgold1.png"; */
+/* @pjs preload="data/chicken1.PNG","data/chicken2.PNG","data/chickenw1.PNG", "data/chickenw2.PNG", "data/grass.PNG", "data/seedgold2.PNG", "data/seedgreen.PNG", "data/seedred.PNG", "data/seed.PNG", "data/seedgold1.PNG"; */
 
 //sound
 //import processing.sound.*;

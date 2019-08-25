@@ -31,7 +31,7 @@
 
             <div class="proj-11">
                 <div class="proj">
-                    <img src="static/PowerGrid.PNG" alt="PowerGrid" width="480" height="270">
+                    <img src="static/PowerGrid.png" alt="PowerGrid" width="480" height="270">
 
                     <h4> PowerGrid Board Game Project </h4>
                     <p>(Made using C++)</p>
@@ -47,7 +47,7 @@
 
             <div class="proj-22">
                 <div class="proj">
-                    <img src="static/RayTrace.BMP" alt="Ray-Trace" width="480" height="270">
+                    <img src="static/RayTrace.bmp" alt="Ray-Trace" width="480" height="270">
 
                     <h4> Ray-Tracing Project </h4>
                     <p>(Made using C++)</p>

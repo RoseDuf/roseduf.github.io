@@ -1,0 +1,195 @@
+h1, h2, h3 {
+            font-family: sans-serif;
+            font-size: 30px;
+            font-weight: 400;
+            text-transform: uppercase;
+        }
+
+body {
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 16px;
+            line-height: 1.5;
+            margin: 0;
+            background: #2a2a2a;
+        }
+
+.background {
+            background-image: linear-gradient(white, transparent 70%), url('');
+            background-size: 100% 100%;
+            background-position: 0% 0%;
+            background-blend-mode: screen; /* so many of them */
+
+            position: absolute;
+            width: 100%;
+            height: 200px;
+            left: 0;
+            bottom: 0;
+        }
+
+.outer {
+            width: 80%;
+            margin: auto;
+            background: #fcfcfc;
+            padding-top: 25px;
+        }
+
+.inner {
+            width: 90%;
+            margin: auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 24px 24px;
+            padding-top: 25px;
+        }
+
+.header {
+            text-aligh: center;
+        }
+
+.introduction {
+            grid-column: 1/span 2;
+        }
+
+.education {
+            grid-column: 1;
+            grid-template-rows: 1fr 1fr;
+            display: grid;
+        }
+
+.edu-grid {
+            grid-row: 1;
+        }
+
+.projects {
+            grid-column: 1/span 2;
+            grid-template-columns: 1fr 1fr;
+            display: grid;
+            grid-gap: 20px;
+        }
+
+.skills {
+            grid-column: 2;
+        }
+
+.ski {
+            grid-template-columns: 1fr 4fr;
+            display: grid;
+        }
+
+.intro {
+            color: black;
+            font-size: 16px;
+            padding: 15px;
+            background-color: pink;
+            padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+
+.name {
+            vertical-align: top;
+            color: black;
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 90px;
+        }       
+
+.edu {
+            font-size: 18px;
+            font-weight: bold;
+            grid-template-columns: 2fr 1fr;
+            display: grid;
+        } 
+
+.gd-title {
+            text-align: center;
+            font-weight: bold;
+        }
+
+.cs-title {
+            text-align: center;
+            font-weight: bold;
+        }
+
+.proj {
+            text-align: center;
+        }
+
+.picture {
+            grid-column: 1/span 2;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            grid-gap: 24px 24px;
+        }
+
+.learning {
+            /* align-self: end; */
+            grid-row: 2;
+        }
+
+.date {
+            grid-column: 2;
+            font-size: 14px;
+            padding-top: 5px;
+        }
+
+.lang {
+            grid-column: 2;
+            font-size: 12px;
+        }
+
+.icon {
+            text-align: center;
+            padding-top: 26px;
+        }
+
+.icon2 {
+            text-align: center;
+            font-size: 12px;
+            line-height: 0.3;
+            padding-top: 10px;
+        }
+
+.group {
+            grid-template-columns: 1fr 1fr 1fr;
+            display: grid;
+        }
+
+.edu-color {
+        }
+
+.sql {
+            grid-column: 1;
+        }
+
+.c {
+            grid-column: 2;
+        }
+        
+.ruby {
+            grid-column: 3;
+        }
+        
+.clisp {
+            grid-column: 4;
+        }
+
+.git {
+            grid-column: 1;
+        }
+
+.bash {
+            grid-column: 2;
+        }
+
+.proj-1 {
+            grid-column: 1;
+        }
+
+.proj-2 {
+            grid-column: 2;
+        }
+
+.proj-header {
+            grid-column: 1/span 2;
+        }

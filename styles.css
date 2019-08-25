@@ -43,7 +43,7 @@ body {
         }
 
 .header {
-            text-aligh: center;
+            text-align: center;
         }
 
 .introduction {
@@ -171,8 +171,8 @@ body {
     grid-column: 3;
 }
 
-.edu-color {
-        }
+/*.edu-color {
+        }*/
 
 .sql {
             grid-column: 1;

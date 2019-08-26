@@ -23,7 +23,7 @@
 
         </div>
 
-        <div>
+        <div class="description">
             <p>
                 Computer Graphics (COMP 371) final project
             </p>

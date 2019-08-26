@@ -224,3 +224,13 @@ body {
 .proj-header {
             grid-column: 1/span 2;
         }
+
+.info {
+    background-color: #f2e6ff;
+    border-left-style: solid;
+    border-color: #dab3ff;
+    padding: 10px;
+    margin-left: 20px;
+    color: #2e004d;
+    font-family: Arial, sans-serif;
+}

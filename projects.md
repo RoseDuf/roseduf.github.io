@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title> Rose Dufresne </title>
+        <title> Projects </title>
         <link rel="stylesheet" href="styles.css">
     </head>
 

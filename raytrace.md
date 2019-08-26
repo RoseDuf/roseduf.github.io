@@ -9,11 +9,11 @@
         <div class="picture">
         
             <div> 
-                <img src="static/PowerGrid.jpg" alt="powergrid" width="300" height="300" style="border-radius: 300px;">
+                <img src="static/PowerGrid.png" alt="powergrid" width="300" height="300" style="border-radius: 300px;">
             </div>
 
             <div>
-                <div class="name"> PowerGrid Board Game Project </div>
+                <div class="name-proj"> PowerGrid Board Game Project </div>
                     <div class="groupOf3">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>

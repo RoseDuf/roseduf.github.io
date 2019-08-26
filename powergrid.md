@@ -9,11 +9,11 @@
         <div class="picture">
         
             <div> 
-                <img src="static/RayTrace.jpg" alt="raytrace" width="300" height="300" style="border-radius: 300px;">
+                <img src="static/RayTrace.png" alt="raytrace" width="300" height="300" style="border-radius: 300px;">
             </div>
 
             <div>
-                <div class="name"> Ray-Tracing Project </div>
+                <div class="name-proj"> Ray-Tracing Project </div>
                     <div class="groupOf3">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>

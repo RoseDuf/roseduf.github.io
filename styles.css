@@ -92,7 +92,14 @@ body {
             color: black;
             font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
             font-size: 90px;
-        }       
+        }    
+
+.name-proj {
+            vertical-align: top;
+            color: black;
+            font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+            font-size: 45px;
+}
 
 .edu {
             font-size: 18px;

@@ -9,7 +9,7 @@
         <div class="picture">
         
             <div> 
-                <img src="static/RayTrace.png" alt="raytrace" width="300" height="300" style="border-radius: 300px;">
+                <img src="static/PowerGrid.png" alt="PowerGrid" width="480" height="270">
             </div>
 
             <div>

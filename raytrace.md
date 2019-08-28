@@ -33,73 +33,56 @@
             <p>
                 Thanks to scratchapixel, I was able to do this project
             </p>
-            <p>
+            <pre>
                 https://www.scratchapixel.com/code.php?id=11&origin=/lessons/3d-basic-rendering/ray-tracing-polygon-mesh
-            </p>
-            <p>
+
                 https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates
-            </p>
+            </pre>
 
             <div class="code">
-                <p>
+                <pre>
                     //method that computes color of objects depending on whether or not there is intersection with ray
-                </p>
-                <p>
+
                     glm::vec3 cast_ray(glm::vec3 rayorig, glm::vec3 &raydir, 
-	                vector<shared_ptr<Object>> objects,
-	                vector<Light> &lights, Camera *cam)
-                </p>
+	                vector&ltshared_ptr&ltObject&gt&gt objects,
+	                vector&ltLight&gt &lights, Camera *cam)
+                </pre>
             </div>
-            <p>
-            </p>
             <div class="code">
-                <p>
+                <pre>
                     //assigns the minimum point of intersection
-                </p>
-                <p>
+
                     bool trace(glm::vec3 origin, glm::vec3 direction, 
-	                vector<shared_ptr<Object>> objects, float &tmin, int &index, shared_ptr<Object> &object)
-                </p>
+	                vector&ltshared_ptr&ltObject&gt&gt objects, float &tmin, int &index, shared_ptr&ltObject&gt &object)
+                </pre>
             </div>
-            <p>
-            </p>
             <div class="code">
-                <p>
+                <pre>
                     //renderer
-                </p>
-                <p>
-                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
-                </p>
+
+                    void render(vector&ltshared_ptr&ltObject&gt&gt &objects, vector&ltLight&gt &lights, Camera *camera)
+                </pre>
             </div>
-            <p>
-            </p>
             <div class="code">
-                <p>
+                <pre>
                     //renderer
-                </p>
-                <p>
-                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
-                </p>
+
+                    void render(vector&ltshared_ptr&ltObject&gt&gt &objects, vector&ltLight&gt &lights, Camera *camera)
+                </pre>
             </div>
-            <p>
-            </p>
             <div class="code">
-                <p>
+                <pre>
                     //read scene file
-                </p>
-                <p>
-                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
-                </p>
+
+                    void render(vector&ltshared_ptr&ltObject&gt&gt &objects, vector&ltLight&gt &lights, Camera *camera)
+                </pre>
             </div>
-            <p>
-            </p>
             <div class="code">
-                <p>
+                <pre>
                     //computes if there is a point of intersection with the ray
-                </p>
-                <p>
+
                     bool Sphere::intersect(const glm::vec3 &rayorig, const glm::vec3 &raydir, float &t, int &index) {
-                </p>
+                </pre>
             </div>
         </div>
 

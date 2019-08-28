@@ -238,3 +238,15 @@ body {
     color: #2e004d;
     font-family: Arial, sans-serif;
 }
+
+.code {
+    background-color: #e6f7ff;
+    border-style: solid;
+    border-color: #99dfff;
+    border-radius: 8px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #004666;
+    font-family: "Courier New", monospace;
+}

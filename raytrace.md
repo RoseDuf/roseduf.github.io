@@ -39,6 +39,58 @@
             <p>
                 https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates
             </p>
+
+            <div class="code">
+                <p>
+                    //method that computes color of objects depending on whether or not there is intersection with ray
+                </p>
+                <p>
+                    glm::vec3 cast_ray(glm::vec3 rayorig, glm::vec3 &raydir, 
+	                vector<shared_ptr<Object>> objects,
+	                vector<Light> &lights, Camera *cam)
+                </p>
+            </div>
+            <div class="code">
+                <p>
+                    //assigns the minimum point of intersection
+                </p>
+                <p>
+                    bool trace(glm::vec3 origin, glm::vec3 direction, 
+	                vector<shared_ptr<Object>> objects, float &tmin, int &index, shared_ptr<Object> &object)
+                </p>
+            </div>
+            <div class="code">
+                <p>
+                    //renderer
+                </p>
+                <p>
+                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
+                </p>
+            </div>
+            <div class="code">
+                <p>
+                    //renderer
+                </p>
+                <p>
+                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
+                </p>
+            </div>
+            <div class="code">
+                <p>
+                    //read scene file
+                </p>
+                <p>
+                    void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
+                </p>
+            </div>
+            <div class="code">
+                <p>
+                    //computes if there is a point of intersection with the ray
+                </p>
+                <p>
+                    bool Sphere::intersect(const glm::vec3 &rayorig, const glm::vec3 &raydir, float &t, int &index) {
+                </p>
+            </div>
         </div>
 
 

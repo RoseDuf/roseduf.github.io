@@ -50,6 +50,8 @@
 	                vector<Light> &lights, Camera *cam)
                 </p>
             </div>
+            <p>
+            </p>
             <div class="code">
                 <p>
                     //assigns the minimum point of intersection
@@ -59,6 +61,8 @@
 	                vector<shared_ptr<Object>> objects, float &tmin, int &index, shared_ptr<Object> &object)
                 </p>
             </div>
+            <p>
+            </p>
             <div class="code">
                 <p>
                     //renderer
@@ -67,6 +71,8 @@
                     void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
                 </p>
             </div>
+            <p>
+            </p>
             <div class="code">
                 <p>
                     //renderer
@@ -75,6 +81,8 @@
                     void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
                 </p>
             </div>
+            <p>
+            </p>
             <div class="code">
                 <p>
                     //read scene file
@@ -83,6 +91,8 @@
                     void render(vector<shared_ptr<Object>> &objects, vector<Light> &lights, Camera *camera)
                 </p>
             </div>
+            <p>
+            </p>
             <div class="code">
                 <p>
                     //computes if there is a point of intersection with the ray

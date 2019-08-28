@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title> RayTracer Project </title>
+        <title> PowerGrid Project </title>
         <link rel="stylesheet" href="styles.css">
     </head>
 
@@ -13,7 +13,7 @@
             </div>
 
             <div>
-                <div class="name-proj"> Ray-Tracing Project </div>
+                <div class="name-proj"> PowerGrid Board Game Project </div>
                     <div class="groupOf3">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>

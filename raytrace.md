@@ -45,8 +45,8 @@
                     //method that computes color of objects depending on whether or not there is intersection with ray
                 <br>
                     glm::vec3 cast_ray(glm::vec3 rayorig, glm::vec3 &raydir, 
-	                vector &#60; shared_ptr &#60; Object &#62; &#62; objects,
-	                vector &#60; Light &#62; &lights, Camera *cam)
+	                vector &#60;shared_ptr &#60;Object &#62;&#62;objects,
+	                vector &#60;Light &#62;&lights, Camera *cam)
                 </p>
             </div>
             <div class="code">
@@ -54,28 +54,28 @@
                     //assigns the minimum point of intersection
                 <br>
                     bool trace(glm::vec3 origin, glm::vec3 direction, 
-	                vector &#60; shared_ptr &#60; Object &#62; &#62; objects, float &tmin, int &index, shared_ptr &#60; Object &#62; &object)
+	                vector &#60;shared_ptr &#60;Object &#62;&#62;objects, float &tmin, int &index, shared_ptr &#60;Object &#62;&object)
                 </p>
             </div>
             <div class="code">
                 <p>
                     //renderer
                 <br>
-                    void render(vector &#60; shared_ptr &#60; Object &#62; &#62; &objects, vector &#60; Light &#62; &lights, Camera *camera)
+                    void render(vector &#60;shared_ptr &#60;Object &#62;&#62;&objects, vector &#60;Light &#62;&lights, Camera *camera)
                 </p>
             </div>
             <div class="code">
                 <p>
                     //renderer
                 <br>
-                    void render(vector &#60; shared_ptr &#60; Object &#62; &#62; &objects, vector &#60; Light &#62; &lights, Camera *camera)
+                    void render(vector &#60;shared_ptr &#60;Object &#62;&#62;&objects, vector &#60;Light &#62;&lights, Camera *camera)
                 </p>
             </div>
             <div class="code">
                 <p>
                     //read scene file
                 <br>
-                    void render(vector &#60; shared_ptr &#60; Object &#62; &#62; &objects, vector &#60; Light &#62; &lights, Camera *camera)
+                    void render(vector &#60;shared_ptr &#60;Object &#62;&#62;&objects, vector &#60;Light &#62;&lights, Camera *camera)
                 </p>
             </div>
             <div class="code">

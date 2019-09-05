@@ -82,7 +82,7 @@
             <div class="code">
                 <pre>
                     glm::vec3 surfaceColor = glm::vec3(0); //default initial color
-	                shared_ptr#60;Object#62; hitObject = nullptr; //target object
+	                shared_ptr<Object>; hitObject = nullptr; //target object
 	                int index = 0;
 
 	                float tmin; //the closest point of intersection from ray origin to object
@@ -93,14 +93,14 @@
 		            for (int i = 0; i < lights.size(); i++) {
 
 			        glm::vec3 phit = rayorig + raydir * tmin; //point hit in parametric form (p0 +dt)
-			        glm::vec3 nhit = glm::normalize(hitObject-#62;getNormal(phit, index)); //normal of the point hit (normal calculation is different between planes and spheres)
-			        glm::vec3 view_direction = glm::normalize(cam-#62;getPosition() - phit); //camera view direction
+			        glm::vec3 nhit = glm::normalize(hitObject->;getNormal(phit, index)); //normal of the point hit (normal calculation is different between planes and spheres)
+			        glm::vec3 view_direction = glm::normalize(cam->;getPosition() - phit); //camera view direction
 			        glm::vec3 lightDirection = glm::normalize(lights[i].getPosition() - phit); //light direction vector
 			
 			        //computing shadows (similar calculation of trace)
 			        float tshadow = INFINITY;
 			        float bias = 1e-8; //add bias
-			        shared_ptr#60;Object#62; objectShadow = nullptr;
+			        shared_ptr<Object>; objectShadow = nullptr;
 			
 			        //if object is not in shadow, compute surface color normally using Phong
 			        if ((!trace(phit + nhit * bias, -lightDirection, objects, tshadow, index, objectShadow)) || (hitObject == objectShadow)) {
@@ -109,7 +109,7 @@
 
 			        }
 			        else //just the ambient color of an object if object IS in shadow
-				    surfaceColor = hitObject-#62;getAmb();
+				    surfaceColor = hitObject->;getAmb();
 		            }
 	                }
 

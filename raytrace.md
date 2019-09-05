@@ -55,25 +55,21 @@
                     <li>This is the ray's point of origin from the camera's position.</li>
                     </ul>
                 </li>
-                <li> </li>
                 <li>raydir : glm::vec3
                     <ul style="list-style-type:none;">
                     <li>This is the ray's direction. A vector in computer graphics needs both it's point of origin (rayorig) and it's direction (raydir) or else it could be situated anywhere in the world space.</li>
                     </ul>
                 </li>
-                <li> </li>
                 <li>objects : vector&#60;shared_ptr&#60;Object&#62;&#62;
                     <ul style="list-style-type:none;">
                     <li>A vector of pointers to objects that are stored in the memory. Objects include Spheres, Planes and Meshes. </li>
                     </ul>
                 </li>
-                <li> </li>
                 <li>lights : vector&#60;shared_ptr&#60;Light&#62;&#62;
                     <ul style="list-style-type:none;">
                     <li>A vector of pointers to lights that are stored in the memory. There can possibly be multiple lights. </li>
                     </ul>
                 </li>
-                <li> </li>
                 <li>cam : Camera* 
                     <ul style="list-style-type:none;">
                     <li>A pointer to a camera that is stored in the memory. It is safe to assume there is only one camera. </li>

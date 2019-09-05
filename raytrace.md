@@ -80,42 +80,66 @@
                 </ul>  
             </p>
             <div class="code">
-                <pre>
+                <p>
                     glm::vec3 surfaceColor = glm::vec3(0); //default initial color
-	                shared_ptr<Object>; hitObject = nullptr; //target object
-	                int index = 0;
-
+	            <br>  
+                    shared_ptr#60;Object#62; hitObject = nullptr; //target object
+	            <br>
+                    int index = 0;
+                <br>
+                <br>
 	                float tmin; //the closest point of intersection from ray origin to object
-
+                <br>
 	                //computing the colors produced by the ray on an object (with light)
-	                if (trace(rayorig, raydir, objects, tmin, index, hitObject)) {
-		            //itterate through all the lights
-		            for (int i = 0; i < lights.size(); i++) {
-
+	            <br>    
+                    if (trace(rayorig, raydir, objects, tmin, index, hitObject)) {
+		        <br>    
+                    //itterate through all the lights
+		        <br>    
+                    for (int i = 0; i < lights.size(); i++) {
+                <br>
+                <br>           
 			        glm::vec3 phit = rayorig + raydir * tmin; //point hit in parametric form (p0 +dt)
-			        glm::vec3 nhit = glm::normalize(hitObject->;getNormal(phit, index)); //normal of the point hit (normal calculation is different between planes and spheres)
-			        glm::vec3 view_direction = glm::normalize(cam->;getPosition() - phit); //camera view direction
-			        glm::vec3 lightDirection = glm::normalize(lights[i].getPosition() - phit); //light direction vector
-			
+			    <br>    
+                    glm::vec3 nhit = glm::normalize(hitObject-#62;getNormal(phit, index)); //normal of the point hit (normal calculation is different between planes and spheres)
+			    <br>    
+                    glm::vec3 view_direction = glm::normalize(cam-#62;getPosition() - phit); //camera view direction
+			    <br>    
+                    glm::vec3 lightDirection = glm::normalize(lights[i].getPosition() - phit); //light direction vector
+                <br>
+                <br>
 			        //computing shadows (similar calculation of trace)
-			        float tshadow = INFINITY;
-			        float bias = 1e-8; //add bias
-			        shared_ptr<Object>; objectShadow = nullptr;
-			
+			    <br>   
+                    float tshadow = INFINITY;
+                <br>
+                    float bias = 1e-8; //add bias
+			    <br>    
+                    shared_ptr#60;Object#62; objectShadow = nullptr;
+                <br>
+                <br>
 			        //if object is not in shadow, compute surface color normally using Phong
-			        if ((!trace(phit + nhit * bias, -lightDirection, objects, tshadow, index, objectShadow)) || (hitObject == objectShadow)) {
-				
+			    <br>    
+                    if ((!trace(phit + nhit * bias, -lightDirection, objects, tshadow, index, objectShadow)) || (hitObject == objectShadow)) {
+				<br>
+                <br>
 				    surfaceColor += ComputePointLight(lights[i], nhit, phit, view_direction, lightDirection, hitObject);
-
+                <br>
+                <br>
 			        }
-			        else //just the ambient color of an object if object IS in shadow
-				    surfaceColor = hitObject->;getAmb();
-		            }
-	                }
-
+                <br>
+                    else //just the ambient color of an object if object IS in shadow
+				<br>    
+                    surfaceColor = hitObject-#62;getAmb();
+		        <br>    
+                    }
+	            <br>    
+                    }
+                <br>
+                <br>
 	                //resulting color
-	                return surfaceColor;
-                </pre>
+	            <br>    
+                    return surfaceColor;
+                </p>
             </div>
             <div class="code">
                 <p>

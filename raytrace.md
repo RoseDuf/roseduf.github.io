@@ -40,9 +40,9 @@
                 https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates
             </p>
 
-            <h4>
+            <div class="heading">
                 cast_ray:
-            </h4>
+            </div>
             <p>
                 Method that computes color of objects depending on whether or not there is intersection with ray
             </p>

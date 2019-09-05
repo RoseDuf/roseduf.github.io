@@ -44,7 +44,7 @@
                 cast_ray:
             </div>
             <p>
-                Method that computes color of objects depending on whether or not there is intersection with ray
+                Method that computes color of objects depending on whether or not there is intersection with ray. Returns a vector (glm::vec3) for the color.
             </p>
             <p>
                 Parameters:

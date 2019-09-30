@@ -62,7 +62,7 @@
                 <p>
                     For more information on how I did this, click <a href="raytrace.html"> here </a>.
                 </p>
-                >
+                -->
 
             </div> <!-- end of proj-22 -->
 

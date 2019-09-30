@@ -142,8 +142,6 @@
                         </div>
                     </div>
                 </div>
-                </div>
-                
             </div> <!-- end of learning class -->
 
         </div> <!-- end of education class -->

@@ -14,10 +14,11 @@
 
             <div>
                 <div class="name"> Rose Dufresne </div>
-                    <div class="groupOf3">
+                    <div class="groupOf4">
                         <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projs"><a href="projects.html"> Projects </a></div>
+                        <div class="git"><a href="https://github.com/RoseDuf">GitHub</a></div>
                     </div>
             </div>
         </div>

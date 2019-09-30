@@ -111,9 +111,37 @@
 
             <div class="learning">
                 <div class="edu">
-                <!-- <div>
+                    <div>
                         Currently learning how to use:
-                    </div> -->
+                    </div> 
+                    <div class="ski">
+                        <div class="icon">
+                            <img src="static/python_logo.png" alt="Python Logo" width="60" height="60">
+                        </div>
+                        <div class="lang">
+                            <h4>Python:</h4> 
+                            <p>Using Python for Numerical Methods.</p>
+                        </div>
+                    </div>
+                    <div class="ski">
+                        <div class="icon">
+                            <img src="static/Css_logo.png" alt="Csharp Logo" width="60" height="60">
+                        </div>
+                        <div class="lang">
+                            <h4>C#:</h4> 
+                            <p>Using Python for Introduction to Game Development.</p>
+                        </div>
+                    </div>
+                    <div class="ski">
+                        <div class="icon">
+                            <img src="static/Unity_logo.png" alt="Unity Logo" width="60" height="60">
+                        </div>
+                        <div class="lang">
+                            <h4>Unity:</h4> 
+                            <p>Using Unity for Introduction to Game Development.</p>
+                        </div>
+                    </div>
+                </div>
                 </div>
                 
             </div> <!-- end of learning class -->
@@ -290,7 +318,7 @@
             </div>
         </div>
 
-        <div class="group">
+        <div class="groupOf2">
             <div class="git">
                 <div class="icon2">
                     <img src="static/git_logo.png" alt="Git Logo" width="60" height="60">
@@ -308,7 +336,7 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- end of group class -->
+        </div> <!-- end of groupOf2 class -->
 
         </div> <!-- end of skills class -->
 

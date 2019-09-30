@@ -194,6 +194,10 @@ li {
     grid-column: 3;
 }
 
+.git {
+    grid-column: 4;
+}
+
 /*.edu-color {
         }*/
 

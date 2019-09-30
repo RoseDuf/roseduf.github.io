@@ -39,9 +39,11 @@
                 <p>
                     Project I made with 3 of my teammates. The goal was to recreate from scratch the game "PowerGrid" using object oriented programming concepts and C++ programming language. I am proud of this project because it has been one of my biggest coding projects so far and I did very well on it. It showed me that I am more than capable of working in a team, as I would constantly put in effort into improving our communication by using apps like discord and by making use of the "issues" functionality on github. Furthermore, I would always finish my tasks on time. So much so that I would put in extra time into the project if any of my teammates needed help. 
                 </p> 
+                <!--
                 <p>
                     When it comes to the structure of our code, there are a lot of things to go though. Click  <a href="powergrid.html"> here </a> for more. 
                 </p> 
+                -->
 
             </div> <!-- end of proj-11 -->
 
@@ -55,9 +57,11 @@
                 <p>
                     This project was my final project in my Computer Graphics course. It was made individually and required me to make from scratch a ray-tracer that would be able to render circles, quads (for example: planes), and meshes (objects made from triangles). We had to compute realistic lighting and shadows using global illumination physics and the image space (as opposed to local illumation physics and the object space used in APIs such as OpenGL). Global illumination and image space mean, in short, that colors are rendered per individual pixel instead of per object. This means that the illumination and shadows are far more realistic than the ones produced by OpenGL. However, this also means that ray-tracing requires more intensive computation. 
                 </p> 
+                <!--
                 <p>
                     For more information on how I did this, click <a href="raytrace.html"> here </a>.
                 </p>
+                >
 
             </div> <!-- end of proj-22 -->
 

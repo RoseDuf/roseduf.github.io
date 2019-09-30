@@ -114,32 +114,32 @@
                     <div>
                         Currently learning how to use:
                     </div> 
-                    <div class="ski">
-                        <div class="icon">
-                            <img src="static/python_logo.png" alt="Python Logo" width="60" height="60">
-                        </div>
-                        <div class="lang">
-                            <h4>Python:</h4> 
-                            <p>Using Python for Numerical Methods.</p>
-                        </div>
+                </div>
+                <div class="ski">
+                    <div class="icon">
+                        <img src="static/python_logo.png" alt="Python Logo" width="60" height="60">
                     </div>
-                    <div class="ski">
-                        <div class="icon">
-                            <img src="static/Css_logo.png" alt="Csharp Logo" width="60" height="60">
-                        </div>
-                        <div class="lang">
-                            <h4>C#:</h4> 
-                            <p>Using Python for Introduction to Game Development.</p>
-                        </div>
+                    <div class="lang">
+                        <h4>Python:</h4> 
+                        <p>Using Python for Numerical Methods.</p>
                     </div>
-                    <div class="ski">
-                        <div class="icon">
-                            <img src="static/Unity_logo.png" alt="Unity Logo" width="60" height="60">
-                        </div>
-                        <div class="lang">
-                            <h4>Unity:</h4> 
-                            <p>Using Unity for Introduction to Game Development.</p>
-                        </div>
+                </div>
+                <div class="ski">
+                    <div class="icon">
+                        <img src="static/Css_logo.png" alt="Csharp Logo" width="60" height="60">
+                    </div>
+                    <div class="lang">
+                        <h4>C#:</h4> 
+                        <p>Using Python for Introduction to Game Development.</p>
+                    </div>
+                </div>
+                <div class="ski">
+                    <div class="icon">
+                        <img src="static/Unity_logo.png" alt="Unity Logo" width="60" height="60">
+                    </div>
+                    <div class="lang">
+                        <h4>Unity:</h4> 
+                        <p>Using Unity for Introduction to Game Development.</p>
                     </div>
                 </div>
             </div> <!-- end of learning class -->

@@ -55,6 +55,12 @@
                     </div>
                 </div>
 
+                <div class="gpa">
+                    <p class="title">
+                        <li>GPA: 3.11</li>
+                    </p>
+                </div>
+
                 <div class="gd">
                     <p class="gd-title">
                         <u>Game Design Minor</u>
@@ -63,8 +69,10 @@
                         Relevant courses I have taken:
                     </p>
                     <ul>
+                        <li>Introduction to Game Design - CART 215</li>
                         <li>3D Digital Production - CART 361</li>
                         <li>Computation Arts I - CART 253</li>
+                        <li>Introduction to Game Development - COMP 376</li>
                     </ul>  
                 </div>
             
@@ -86,6 +94,8 @@
                         <li>Computer Graphics - COMP 371 </li>
                         <li>Databases - COMP 353 </li>
                         <li>Advanced Program Design with C++ - COMP 345 </li>
+                        <li>Combinatorics - COMP 339</li>
+                        <li>Elementary Numerical Methods - COMP 361</li>
                     </ul>  
                 </div>
 
@@ -97,13 +107,9 @@
                         Relevant courses:
                     </p>
                     <ul>
-                        <li>Introduction to Game Development - COMP 376</li>
-                        <li>Numerical Methods</li>
-                        <li>Advanced Game Development</li>
-                        <p>
-                            OR
-                        </p>
-                        <li>Computer Vision</li>
+                        <li>Animation for Computer Games - COMP 477</li>
+                        <li>Artificial Intelligence - COMP 472</li>
+                        <li>Game Studio I - CART 415</li>
                     </ul>  
                 </div>
             </div> <!-- end of edu color class -->

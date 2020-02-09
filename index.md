@@ -27,7 +27,7 @@
             <h3 class="header"> Introduction </h3>
             <div class="intro">
                 <p> 
-                I am a third year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
+                I am a fourth year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
                 </p>
                 <p>
                 During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. Furthermore, I've gained a particular interest in computer graphics. In fact, so much so that I would love to pursue a job that is closely related to computer graphics in the near future.
@@ -115,40 +115,15 @@
             </div> <!-- end of edu color class -->
             </div> <!-- end of edu-grid class -->
 
+<!--
             <div class="learning">
                 <div class="edu">
                     <div>
                         Currently learning how to use:
                     </div> 
                 </div>
-                <div class="ski">
-                    <div class="icon">
-                        <img src="static/python_logo.png" alt="Python Logo" width="60" height="60">
-                    </div>
-                    <div class="lang">
-                        <h4>Python:</h4> 
-                        <p>Using Python for Numerical Methods.</p>
-                    </div>
-                </div>
-                <div class="ski">
-                    <div class="icon">
-                        <img src="static/Css_logo.png" alt="Csharp Logo" width="60" height="60">
-                    </div>
-                    <div class="lang">
-                        <h4>C#:</h4> 
-                        <p>Using Python for Introduction to Game Development.</p>
-                    </div>
-                </div>
-                <div class="ski">
-                    <div class="icon">
-                        <img src="static/Unity_logo.png" alt="Unity Logo" width="60" height="60">
-                    </div>
-                    <div class="lang">
-                        <h4>Unity:</h4> 
-                        <p>Using Unity for Introduction to Game Development.</p>
-                    </div>
-                </div>
-            </div> <!-- end of learning class -->
+            </div>
+--> <!-- end of learning class -->
 
         </div> <!-- end of education class -->
 
@@ -165,7 +140,7 @@
                 </div>
                 <div class="lang">
                     <h4>Java:</h4> 
-                    <p>Most experienced with java as I've been using it for most of my time at Concordia University.</p>
+                    <p>Experienced with java as I've been using it for many of my core classes at Concordia University, as well as using it for Matrox's TopologyBuilder UI which is an application which facilitates the process of video streaming or broadcasting on multiple monitors. </p>
                 </div>
             </div>
 
@@ -175,9 +150,32 @@
                 </div>
                 <div class="lang">
                     <h4>C++:</h4> 
-                    <p> Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a successful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of.
+                    <p> 
+                    Used C++ to create a recreation of the boardgame "PowerGrid" in my "Advanced Program Design with C++" class and to make a successful Ray-Tracing program for my "Computer Graphics" class. Both projects of which I am very proud of. Also used C++ during my Matrox internship. For example, I added a feature to their codec that gives the ability to force IDR frames at any given moment in a video which restarts a new group of pictures (GOP).
                     </p>
                 </div>
+            </div>
+            <div class="ski">
+                    <div class="icon">
+                        <img src="static/python_logo.png" alt="Python Logo" width="60" height="60">
+                    </div>
+                    <div class="lang">
+                        <h4>Python:</h4> 
+                        <p>
+                        Used Python for Elementary Numerical Methods and have used it for 2 hackothon projects for ConUhacks IV and V. One of these projects being a lyric player for Octave Group's music player API and the other being a website to analyse different trends of music choices from TouchTunes jukeboxes across the country. Focused on movie releases, deaths and anniversaries of singers and bands. This second project we won!!!
+                        </p>
+                    </div>
+            </div>
+            <div class="ski">
+                    <div class="icon">
+                        <img src="static/Css_logo.png" alt="Csharp Logo" width="60" height="60">
+                    </div>
+                    <div class="lang">
+                        <h4>C#:</h4> 
+                        <p>
+                        Used C# for making games, as this is the backend programming language used in the Unity Engine.
+                        </p>
+                    </div>
             </div>
 
             <div class="ski">
@@ -186,8 +184,9 @@
                 </div>
                 <div class="lang">
                     <h4>Javascript:</h4> 
-                    <p>Used it for my web programming class and for the creation of the "Zorkemon" group project (which can be found on my github page), as well as the ConUHacks
-                    API challenge sponsored by TouchTunes which my team and I have won! </p>
+                    <p>
+                    Used it for my web programming class and for the creation of the "Zorkemon" group project (which can be found on my github page), as well as the ConUHacks API challenge sponsored by TouchTunes.
+                    </p>
                 </div>
             </div>
 
@@ -244,8 +243,20 @@
 
         <div class="edu">
             <div>
-                Game Design:
+                Game Design/Development:
             </div>
+        </div>
+
+        <div class="ski">
+                    <div class="icon">
+                        <img src="static/Unity_logo.png" alt="Unity Logo" width="60" height="60">
+                    </div>
+                    <div class="lang">
+                        <h4>Unity:</h4> 
+                        <p>
+                        Used Unity for many of the games I have made in the past couple of months. You can find such projects by clicking in the "Projects" option in the menu at the top of this page.
+                        </p>
+                    </div>
         </div>
 
         <div class="ski">

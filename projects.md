@@ -32,7 +32,7 @@
 
             <div class="proj-11">
                 <div class="proj">
-                    <iframe width="480" height="270" src="https://youtu.be/BmGUNQDGLlM">
+                    <iframe width="480" height="270" src="https://www.youtube.com/watch?v=BmGUNQDGLlM">
                     </iframe>
 
                     <h4> Treasure Diver </h4>

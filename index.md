@@ -116,33 +116,33 @@
             </div> <!-- end of edu-grid class -->
 
             <div class="employ-grid">
-            <h3> Employement </h3>
+                <h3> Employement </h3>
 
-            <div class="edu">
-                    <div class="cs-title">
-                        Software Engineering Internship
-                    </div>
-                    <div class="cs-title">
-                        Matrox, Video Department
-                    </div>
-                    <div class="date">
-                        (from January 6th 2020 until now)
-                    </div>
-                    <div>
-                        Participating in the development and maintenance of Matrox’s cross-platform video software components using C++.
-                    </div>
-                    <ul>
-                        <li>
-                        Gained experience working with video software, notably their Topology Builder application which facilitates the process of video streaming or broadcasting on multiple monitors. 
-                        </li>
-                        <li>
-                        Learned about H264 encoding and decoding and have added a feature to their codec that gives the ability to force IDR frames at any given moment in a video which restarts a new group of pictures (GOP).
-                        </li>
-                        <li>
-                        Writing automation test scripts using Powershell to ensure good quality of their products. 
-                        </li>
-                    </ul> 
-
+                <div class="edu">
+                        <div class="cs-title">
+                            Software Engineering Internship
+                        </div>
+                        <div class="cs-title">
+                            Matrox, Video Department
+                        </div>
+                        <div class="date">
+                            (from January 6th 2020 until now)
+                        </div>
+                        <div>
+                            Participating in the development and maintenance of Matrox’s cross-platform video software components using C++.
+                        </div>
+                        <ul>
+                            <li>
+                            Gained experience working with video software, notably their Topology Builder application which facilitates the process of video streaming or broadcasting on multiple monitors. 
+                            </li>
+                            <li>
+                            Learned about H264 encoding and decoding and have added a feature to their codec that gives the ability to force IDR frames at any given moment in a video which restarts a new group of pictures (GOP).
+                            </li>
+                            <li>
+                            Writing automation test scripts using Powershell to ensure good quality of their products. 
+                            </li>
+                        </ul> 
+                </div>
             </div>
 
 <!--

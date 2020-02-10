@@ -118,7 +118,6 @@
             <div class="employ-grid">
                 <h3> Employement </h3>
 
-                <div class="edu">
                         <div class="cs-title">
                             Software Engineering Internship
                         </div>
@@ -142,7 +141,6 @@
                             Writing automation test scripts using Powershell to ensure good quality of their products. 
                             </li>
                         </ul> 
-                </div>
             </div>
 
 <!--

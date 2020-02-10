@@ -57,7 +57,7 @@
 
                 <div class="gpa">
                     <p class="title">
-                        <li>GPA: 3.11</li>
+                        <p>GPA: 3.11</p>
                     </p>
                 </div>
 
@@ -114,6 +114,36 @@
                 </div>
             </div> <!-- end of edu color class -->
             </div> <!-- end of edu-grid class -->
+
+            <div class="employ-grid">
+            <h3> Employement </h3>
+
+            <div class="edu">
+                    <div class="cs-title">
+                        Software Engineering Internship
+                    </div>
+                    <div class="cs-title">
+                        Matrox, Video Department
+                    </div>
+                    <div class="date">
+                        (from January 6th 2020 until now)
+                    </div>
+                    <div>
+                        Participating in the development and maintenance of Matrox’s cross-platform video software components using C++.
+                    </div>
+                    <ul>
+                        <li>
+                        Gained experience working with video software, notably their Topology Builder application which facilitates the process of video streaming or broadcasting on multiple monitors. 
+                        </li>
+                        <li>
+                        Learned about H264 encoding and decoding and have added a feature to their codec that gives the ability to force IDR frames at any given moment in a video which restarts a new group of pictures (GOP).
+                        </li>
+                        <li>
+                        Writing automation test scripts using Powershell to ensure good quality of their products. 
+                        </li>
+                    </ul> 
+
+            </div>
 
 <!--
             <div class="learning">
@@ -333,7 +363,7 @@
             </div>
         </div>
 
-        <div class="groupOf2">
+        <div class="groupOf4">
             <div class="git">
                 <div class="icon2">
                     <img src="static/git_logo.png" alt="Git Logo" width="60" height="60">
@@ -342,16 +372,32 @@
                     </div>
                 </div>
             </div>
-
-            <div class="ruby">
+            <div class="powershell">
                 <div class="icon2">
-                    <img src="static/ubuntu_logo.png" alt="Ubuntu Logo" width="60" height="60">
+                    <img src="static/powershell_logo.png" alt="Powershell Logo" width="60" height="60">
                     <div>
-                    <h4>Bash (Ubuntu)</h4> 
+                    <h4>Powershell</h4> 
                     </div>
                 </div>
             </div>
-        </div> <!-- end of groupOf2 class -->
+
+            <div class="ubuntu">
+                <div class="icon2">
+                    <img src="static/ubuntu_logo.png" alt="Ubuntu Logo" width="60" height="60">
+                    <div>
+                    <h4>Ubuntu</h4> 
+                    </div>
+                </div>
+            </div>
+            <div class="bash">
+                <div class="icon2">
+                    <img src="static/bash_logo.png" alt="Bash Logo" width="60" height="60">
+                    <div>
+                    <h4>Bash</h4> 
+                    </div>
+                </div>
+            </div>
+        </div> <!-- end of groupOf4 class -->
 
         </div> <!-- end of skills class -->
 

@@ -32,6 +32,49 @@
 
             <div class="proj-11">
                 <div class="proj">
+                    <iframe width="480" height="270" src="https://youtu.be/BmGUNQDGLlM">
+                    </iframe>
+
+                    <h4> Treasure Diver </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    First game I made using Unity. This is a 2D variation of Balloon Fight. In this variation, rather than being set in air, the game takes place under water, with the balloons being replaced by oxygen cylinders that help you breathe under water. The goal of the game is to get as much gold from the bottom of the ocean and to bring it back up to your boat. Enemies are replaced by sharks (moving around in straight lines), which can damage the player. There is also a moving octopus appearing once in a while to try and kill the player. Both the sharks and octopus move from one side of the screen to the other, and disappear after a fixed time. 
+                </p> 
+                <p>
+                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
+                </p> 
+                <!--
+                <p>
+                    For the technical part of this project, click  <a href="powergrid.html"> here </a> for more. 
+                </p> 
+                -->
+
+            </div> <!-- end of proj-11 -->
+
+            <div class="proj-22">
+                <div class="proj">
+                    <img src="static/dance_attack.png" alt="Dance Attack" width="480" height="270">
+
+                    <h4> Dance Attack </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    This game was aiming to reflect how it feels to have anxiety in day to day life. Anxiety attacks can occur in situations where a person feels an incredible amount of pressure (either real of fabricated) and will fall into an endless loop of low self-esteem and hopelessness. The game achieves a representation of anxiety because it lets you increase your courage to do more complex dance moves, just like anyone else, but doing so increases the difficulty of the game. The increased difficulty represents how a person with anxiety will be more prone to getting stressed because of the added pressure of standing out in a crowd. The game also shows the player’s heartbeat which becomes faster if the player misses buttons. Additionally, the character herself will look visually more stressed if the player misses buttons. These are 2 direct visual representations of anxiety.
+                </p> 
+                <p>
+                    To download and play, click  <a href="https://roseduf.itch.io/dance-attack"> here </a>. 
+                </p> 
+                <!--
+                <p>
+                    For more information on how I did this, click <a href="raytrace.html"> here </a>.
+                </p>
+                -->
+
+            </div> <!-- end of proj-22 -->
+
+            <div class="proj-11">
+                <div class="proj">
                     <img src="static/PowerGrid.png" alt="PowerGrid" width="480" height="270">
 
                     <h4> PowerGrid Board Game Project </h4>

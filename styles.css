@@ -76,6 +76,10 @@ li {
             grid-row: 1;
         }
 
+.employ-grid {
+    grid-row: 2;
+}
+
 .projects {
             grid-column: 1/span 2;
             grid-template-columns: 1fr 1fr;
@@ -155,6 +159,13 @@ li {
             font-size: 14px;
             padding-top: 5px;
         }
+        
+        .date2 {
+            text-align: center;
+            grid-column: 2;
+            font-size: 14px;
+            padding-top: 5px;
+        }       
 
 .lang {
             grid-column: 2;

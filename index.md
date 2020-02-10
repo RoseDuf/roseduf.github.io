@@ -124,7 +124,7 @@
                         <div class="cs-title">
                             Matrox, Video Department
                         </div>
-                        <div class="date">
+                        <div class="date2">
                             (from January 6th 2020 until now)
                         </div>
                         <div>

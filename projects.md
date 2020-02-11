@@ -98,7 +98,7 @@
 
             <div class="proj-22">
                 <div class="proj">
-                    <img src="./static/dance_attack.png" alt="Dance Attack" width="480" height="270">
+                    <img src="static/dance_attack.jpg" alt="Dance Attack" width="480" height="270">
 
                     <h4> Dance Attack </h4>
                     <p>(Made using Unity and C#)</p>

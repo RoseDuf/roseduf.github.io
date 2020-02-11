@@ -378,7 +378,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="ubuntu">
                 <div class="icon2">
                     <img src="static/ubuntu_logo.png" alt="Ubuntu Logo" width="60" height="60">

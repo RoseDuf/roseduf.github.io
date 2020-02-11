@@ -32,7 +32,7 @@
 
             <div class="proj-11">
                 <div class="proj">
-                    <img src="./static/super_shopper.png" alt="Super Shopper" width="480" height="270">
+                    <img src="static/super_shopper.png" alt="Super Shopper" width="480" height="270">
 
                     <h4> Super Shopper: Closing Time Rush </h4>
                     <p>(Made using Unity and C#)</p>
@@ -98,7 +98,7 @@
 
             <div class="proj-22">
                 <div class="proj">
-                    <img src="./static/dance_attack.png" alt="Dance Attack" width="480" height="270">
+                    <img src="static/dance_attack.png" alt="Dance Attack" width="480" height="270">
 
                     <h4> Dance Attack </h4>
                     <p>(Made using Unity and C#)</p>

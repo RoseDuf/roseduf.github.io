@@ -32,6 +32,50 @@
 
             <div class="proj-11">
                 <div class="proj">
+                    <img src="static/super_shopper.png" alt="Super Shopper" width="480" height="270">
+
+                    <h4> Super Shopper: Closing Time Rush </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    Super Shopper: Closing Time Rush (SSCTR) is a wacky maze-like arcade action game that has the player running around a store buying items in order to complete a shopping list whilst taking advantage of coupons and avoiding obstacles and enemies. While the primary goal is to complete your shopping list, other items and coupons appear in the level which contribute to your score. There is also a time limit for each level, making it important to avoid the many obstacles and enemies which stun or hinder the player, causing them to lose time. There is a minimum score for each level that must be reached in order to unlock more levels.
+                </p> 
+                <p>
+                    To look at the game design document, click  <a href="Comp 376 - Game Design Document - CtrlAltDefeat"> here </a>. 
+                </p> 
+                
+                <p>
+                    To download and play the game, click <a href="https://ctrl-alt-defeat.gitlab.io/supershopperctr/"> here </a>.
+                </p>
+
+            </div> <!-- end of proj-11 -->
+
+            <div class="proj-22">
+                <div class="proj">
+                    <iframe width="480" height="270" src="https://www.youtube.com/watch?v=4VeVlD5qbJI">
+                    </iframe>
+
+                    <h4> Treasure Diver 2 </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    Second game I made using Unity. In this variation, you play in first person perspective in a 3D environment. This time, you found gold at the bottom of a deep sewer filled with mutated sharks. You can carry a bag of meat to distract the sharks. Why would you want to do this? Because if you have 15 points worth of gold, or more, sharks will start following you to try to hurt you! There is also a giant sea spider that spawns at the bottom, that can shoot projectiles at you. The goal is the same: get the most gold possible and bring it back up to you boat without dying.
+                </p> 
+                <!--
+                <p>
+                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
+                </p> 
+                -->
+                <!--
+                <p>
+                    For the technical part of this project, click  <a href="powergrid.html"> here </a> for more. 
+                </p> 
+                -->
+
+            </div> <!-- end of proj-22 -->
+
+            <div class="proj-11">
+                <div class="proj">
                     <iframe width="480" height="270" src="https://www.youtube.com/watch?v=BmGUNQDGLlM">
                     </iframe>
 

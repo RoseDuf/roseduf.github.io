@@ -52,14 +52,14 @@
 
             <div class="proj-22">
                 <div class="proj">
-                    <iframe width="480" height="270" src="https://www.youtube.com/watch?v=4VeVlD5qbJI">
+                    <iframe width="480" height="270" src="https://www.youtube.com/embed/4VeVlD5qbJI">
                     </iframe>
 
                     <h4> Treasure Diver 2 </h4>
                     <p>(Made using Unity and C#)</p>
                 </div>
                 <p>
-                    Second game I made using Unity. In this variation, you play in first person perspective in a 3D environment. This time, you found gold at the bottom of a deep sewer filled with mutated sharks. You can carry a bag of meat to distract the sharks. Why would you want to do this? Because if you have 15 points worth of gold, or more, sharks will start following you to try to hurt you! There is also a giant sea spider that spawns at the bottom, that can shoot projectiles at you. The goal is the same: get the most gold possible and bring it back up to you boat without dying.
+                    Second game I made using Unity. In this variation, you play in first person perspective in a 3D environment. This time, you found gold at the bottom of a deep sewer filled with mutated sharks. You can carry a bag of meat to distract the sharks. Why would you want to do this? Because if you have 15 points worth of gold, or more, sharks will start following you to try to hurt you! There is also a giant sea spider that spawns at the bottom, that can shoot projectiles at you! The goal is the same: get the most gold possible and bring it back up to you boat without dying.
                 </p> 
                 <!--
                 <p>
@@ -76,7 +76,7 @@
 
             <div class="proj-11">
                 <div class="proj">
-                    <iframe width="480" height="270" src="https://www.youtube.com/watch?v=BmGUNQDGLlM">
+                    <iframe width="480" height="270" src="https://www.youtube.com/embed/BmGUNQDGLlM">
                     </iframe>
 
                     <h4> Treasure Diver </h4>
@@ -98,7 +98,7 @@
 
             <div class="proj-22">
                 <div class="proj">
-                    <img src="static/dance_attack.png" alt="Dance Attack">
+                    <img src="/static/dance_attack.PNG" alt="Dance Attack">
 
                     <h4> Dance Attack </h4>
                     <p>(Made using Unity and C#)</p>

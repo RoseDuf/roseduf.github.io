@@ -32,6 +32,47 @@
 
             <div class="proj-11">
                 <div class="proj">
+                    <img src="static/2020.png" alt="2020" width="480" height="270">
+
+                    <h4> 2020 </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    2020, as the name suggests, is a horror game. 2020 has been a hard year for all of us, but the worst has definitely been the lockdown caused by the coronavirus. In this game, for almost 3 months you have been doing what you have been told by every news media: self isolation. However, you are starting to forget what the outside world looks like. For this reason, you decide to go out for some fresh air. Upon exiting your house, you come to the reaslisation that the outside world is not how you remember... The gameplay is simple: keep your social distancing!
+                </p> 
+                <p>
+                    This game was made with 3 other team members for Concordia's online game jam on May 17th 2020 with the theme "PANIC". I created some of the assets, including the infected people stuck on the walls, the mini covid monsters that appear on your visor, as well as the giant mother covid at the end of the maze. I also coded core gameplay attributes such as your life draining the longer you get exposed from standing too close to infected wall people and all of the UI. I also did all of the particle effects.
+                </p>
+                <p>
+                    To download and play the game, click <a href="https://roseduf.itch.io/2020"> here </a>.
+                </p>
+
+            </div> <!-- end of proj-11 -->
+
+            <div class="proj-22">
+                <div class="proj">
+                    <img src="static/space_boat_frenzy.png" alt="Space Boat Frenzy" width="480" height="270">
+
+                    <h4> Space Boat Frenzy </h4>
+                    <p>(Made using Unity and C#)</p>
+                </div>
+                <p>
+                    (*Note: game is a tad unfinished, we didn't have time to add an end or winning screen)
+                </p>
+                <p>
+                    This game was made in the 2020 Global Game Jam at ETS. With 7 team members of all experience levels and strenghs, we worked hard to make our best interpretation of the theme "REPAIR". In this 2 person coop game, you work together to maintain your space boat as long as you possibly can. Your home planet, Earth, is inhabitable due to a climate catastrophe. Your only hope is to transport the last remaining tree to a new planet where humanity can thrive again. Unfortunatly, space is a dangerous place to navigate through. Space sharks do anything to try to destroy your ship, secured with a glass bottle, and to eat you! Because of these devious sharks, you have to constantly repair and manage your main ship elements. These are: the engine, the resource extractor, the powerplant, the storage room, the shield, the tree (oxygen provider), the water supply and the steering wheel. 
+                </p> 
+                <p>
+                    I was in charge of all things related to the resources that needed to get extracted in order to fix various parts of the ship (including assets, code and effects). I was also in charge of the sharks attacking the ship, including life gauge and changing states of each part of the ship. Of course I also helped with other aspects of the game as needed.
+                </p>
+                <p>
+                    To download and play the game, click <a href="https://roseduf.itch.io/space-boat-frenzy"> here </a>.
+                </p>
+
+            </div> <!-- end of proj-22 -->
+
+            <div class="proj-11">
+                <div class="proj">
                     <img src="static/super_shopper.png" alt="Super Shopper" width="480" height="270">
 
                     <h4> Super Shopper: Closing Time Rush </h4>

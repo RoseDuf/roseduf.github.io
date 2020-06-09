@@ -105,11 +105,9 @@
                 <p>
                     To download and play, click  <a href="https://roseduf.itch.io/treasure-diver-2"> here </a>. 
                 </p> 
-                <!--
                 <p>
-                    For the technical part of this project, click  <a href="powergrid.html"> here </a> for more. 
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver_2"> here </a> for more. 
                 </p> 
-                -->
 
             </div> <!-- end of proj-22 -->
 
@@ -127,11 +125,9 @@
                 <p>
                     To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
                 </p> 
-                <!--
                 <p>
-                    For the technical part of this project, click  <a href="powergrid.html"> here </a> for more. 
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver"> here </a> for more. 
                 </p> 
-                -->
 
             </div> <!-- end of proj-11 -->
 
@@ -148,11 +144,9 @@
                 <p>
                     To download and play, click  <a href="https://roseduf.itch.io/dance-attack"> here </a>. 
                 </p> 
-                <!--
                 <p>
-                    For more information on how I did this, click <a href="raytrace.html"> here </a>.
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Dance_Attack"> here </a> for more.
                 </p>
-                -->
 
             </div> <!-- end of proj-22 -->
 
@@ -184,11 +178,9 @@
                 <p>
                     This project was my final project in my Computer Graphics course. It was made individually and required me to make from scratch a ray-tracer that would be able to render circles, quads (for example: planes), and meshes (objects made from triangles). We had to compute realistic lighting and shadows using global illumination physics and the image space (as opposed to local illumation physics and the object space used in APIs such as OpenGL). Global illumination and image space mean, in short, that colors are rendered per individual pixel instead of per object. This means that the illumination and shadows are far more realistic than the ones produced by OpenGL. However, this also means that ray-tracing requires more intensive computation. 
                 </p> 
-                <!--
                 <p>
-                    For more information on how I did this, click <a href="raytrace.html"> here </a>.
+                    For more information on how I did this, click <a href="https://github.com/RoseDuf/Ray-Tracing"> here </a>.
                 </p>
-                -->
 
             </div> <!-- end of proj-22 -->
 
@@ -224,6 +216,7 @@
                     <p>
                     This was my final project for my Computation Arts I class (CART 253). We were given complete creative freedom to create a game from scratch and this is what I chose to do. It is a competitive two player game where each player in the game plays as a very confused chicken desperately trying to survive by trying to find the most food as possible before the other. These chickens have absolutely no sense of orientation and constantly turn in circles until a player tells them to go in a given direction. However, the player needs to time the orientation of the chicken at the right moment to be able to get the correct angle towards a grain.
                     </p>
+                    <!--
                     <p>
                     How to play:
                     </p>
@@ -231,6 +224,7 @@
                     <p>
                     To control the white chicken you press "Shift" and to control the brown chicken you press the "Up" key.
                     </p>
+                    -->
                     <p>
                     To win you have to eat the most seeds before the time is up. The more seeds, the more points you get.
                     </p>

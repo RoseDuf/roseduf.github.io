@@ -102,11 +102,9 @@
                 <p>
                     Second game I made using Unity. In this variation, you play in first person perspective in a 3D environment. This time, you found gold at the bottom of a deep sewer filled with mutated sharks. You can carry a bag of meat to distract the sharks. Why would you want to do this? Because if you have 15 points worth of gold, or more, sharks will start following you to try to hurt you! There is also a giant sea spider that spawns at the bottom, that can shoot projectiles at you! The goal is the same: get the most gold possible and bring it back up to you boat without dying.
                 </p> 
-                <!--
                 <p>
-                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
+                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver-2"> here </a>. 
                 </p> 
-                -->
                 <!--
                 <p>
                     For the technical part of this project, click  <a href="powergrid.html"> here </a> for more. 

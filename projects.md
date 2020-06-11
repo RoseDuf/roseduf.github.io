@@ -44,7 +44,7 @@
                     This game was made with 3 other team members for Concordia's online game jam on May 17th 2020 with the theme "PANIC". I created some of the assets, including the infected people stuck on the walls, the mini covid monsters that appear on your visor, as well as the giant mother covid at the end of the maze. I also coded core gameplay attributes such as your life draining the longer you get exposed from standing too close to infected wall people and all of the UI. I also did all of the particle effects.
                 </p>
                 <p>
-                    To download and play the game, click <a href="https://roseduf.itch.io/2020"> here </a>.
+                    To download and play the game, click <a href="https://roseduf.itch.io/2020"> here</a>.
                 </p>
 
             </div> <!-- end of proj-11 -->
@@ -66,7 +66,7 @@
                     I was in charge of all things related to the resources that needed to get extracted in order to fix various parts of the ship (including assets, code and effects). I was also in charge of the sharks attacking the ship, including life gauge and changing states of each part of the ship. Of course I also helped with other aspects of the game as needed.
                 </p>
                 <p>
-                    To download and play the game, click <a href="https://roseduf.itch.io/space-boat-frenzy"> here </a>.
+                    To download and play the game, click <a href="https://roseduf.itch.io/space-boat-frenzy"> here</a>.
                 </p>
 
             </div> <!-- end of proj-22 -->
@@ -86,7 +86,7 @@
                 </p> 
                 
                 <p>
-                    To download and play the game, click <a href="https://ctrl-alt-defeat.gitlab.io/supershopperctr/"> here </a>.
+                    To download and play the game, click <a href="https://ctrl-alt-defeat.gitlab.io/supershopperctr/"> here</a>.
                 </p>
 
             </div> <!-- end of proj-11 -->
@@ -106,7 +106,7 @@
                     To download and play, click  <a href="https://roseduf.itch.io/treasure-diver-2"> here </a>. 
                 </p> 
                 <p>
-                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver_2"> here </a> for more. 
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver_2"> here</a> for more. 
                 </p> 
 
             </div> <!-- end of proj-22 -->
@@ -126,7 +126,7 @@
                     To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
                 </p> 
                 <p>
-                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver"> here </a> for more. 
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver"> here</a> for more. 
                 </p> 
 
             </div> <!-- end of proj-11 -->
@@ -145,7 +145,7 @@
                     To download and play, click  <a href="https://roseduf.itch.io/dance-attack"> here </a>. 
                 </p> 
                 <p>
-                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Dance_Attack"> here </a> for more.
+                    For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Dance_Attack"> here</a> for more.
                 </p>
 
             </div> <!-- end of proj-22 -->
@@ -162,7 +162,7 @@
                 </p> 
                 <!--
                 <p>
-                    When it comes to the structure of our code, there are a lot of things to go though. Click  <a href="powergrid.html"> here </a> for more. 
+                    When it comes to the structure of our code, there are a lot of things to go though. Click  <a href="powergrid.html"> here</a> for more. 
                 </p> 
                 -->
 

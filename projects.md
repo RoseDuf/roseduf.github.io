@@ -82,7 +82,7 @@
                     Super Shopper: Closing Time Rush (SSCTR) is a wacky maze-like arcade action game that has the player running around a store buying items in order to complete a shopping list whilst taking advantage of coupons and avoiding obstacles and enemies. While the primary goal is to complete your shopping list, other items and coupons appear in the level which contribute to your score. There is also a time limit for each level, making it important to avoid the many obstacles and enemies which stun or hinder the player, causing them to lose time. There is a minimum score for each level that must be reached in order to unlock more levels.
                 </p> 
                 <p>
-                    To look at the game design document, click  <a href="gdd.pdf"> here </a>. 
+                    To look at the game design document, click  <a href="gdd.pdf"> here</a>. 
                 </p> 
                 
                 <p>
@@ -103,7 +103,7 @@
                     Second game I made using Unity. In this variation, you play in first person perspective in a 3D environment. This time, you found gold at the bottom of a deep sewer filled with mutated sharks. You can carry a bag of meat to distract the sharks. Why would you want to do this? Because if you have 15 points worth of gold, or more, sharks will start following you to try to hurt you! There is also a giant sea spider that spawns at the bottom, that can shoot projectiles at you! The goal is the same: get the most gold possible and bring it back up to you boat without dying.
                 </p> 
                 <p>
-                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver-2"> here </a>. 
+                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver-2"> here</a>. 
                 </p> 
                 <p>
                     For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver_2"> here</a> for more. 
@@ -123,7 +123,7 @@
                     First game I made using Unity. This is a 2D variation of Balloon Fight. In this variation, rather than being set in air, the game takes place under water, with the balloons being replaced by oxygen cylinders that help you breathe under water. The goal of the game is to get as much gold from the bottom of the ocean and to bring it back up to your boat. Enemies are replaced by sharks (moving around in straight lines), which can damage the player. There is also a moving octopus appearing once in a while to try and kill the player. Both the sharks and octopus move from one side of the screen to the other, and disappear after a fixed time. 
                 </p> 
                 <p>
-                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here </a>. 
+                    To download and play, click  <a href="https://roseduf.itch.io/treasure-diver"> here</a>. 
                 </p> 
                 <p>
                     For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Treasure_Diver"> here</a> for more. 
@@ -142,7 +142,7 @@
                     This game was aiming to reflect how it feels to have anxiety in day to day life. Anxiety attacks can occur in situations where a person feels an incredible amount of pressure (either real of fabricated) and will fall into an endless loop of low self-esteem and hopelessness. The game achieves a representation of anxiety because it lets you increase your courage to do more complex dance moves, just like anyone else, but doing so increases the difficulty of the game. The increased difficulty represents how a person with anxiety will be more prone to getting stressed because of the added pressure of standing out in a crowd. The game also shows the player’s heartbeat which becomes faster if the player misses buttons. Additionally, the character herself will look visually more stressed if the player misses buttons. These are 2 direct visual representations of anxiety.
                 </p> 
                 <p>
-                    To download and play, click  <a href="https://roseduf.itch.io/dance-attack"> here </a>. 
+                    To download and play, click  <a href="https://roseduf.itch.io/dance-attack"> here</a>. 
                 </p> 
                 <p>
                     For the technical part of this project (code), click <a href="https://github.com/RoseDuf/Dance_Attack"> here</a> for more.
@@ -179,7 +179,7 @@
                     This project was my final project in my Computer Graphics course. It was made individually and required me to make from scratch a ray-tracer that would be able to render circles, quads (for example: planes), and meshes (objects made from triangles). We had to compute realistic lighting and shadows using global illumination physics and the image space (as opposed to local illumation physics and the object space used in APIs such as OpenGL). Global illumination and image space mean, in short, that colors are rendered per individual pixel instead of per object. This means that the illumination and shadows are far more realistic than the ones produced by OpenGL. However, this also means that ray-tracing requires more intensive computation. 
                 </p> 
                 <p>
-                    For more information on how I did this, click <a href="https://github.com/RoseDuf/Ray-Tracing"> here </a>.
+                    For more information on how I did this, click <a href="https://github.com/RoseDuf/Ray-Tracing"> here</a>.
                 </p>
 
             </div> <!-- end of proj-22 -->

@@ -66,7 +66,7 @@
                     I was in charge of all things related to the resources that needed to get extracted in order to fix various parts of the ship (including assets, code and effects). I was also in charge of the sharks attacking the ship, including life gauge and changing states of each part of the ship. Of course I also helped with other aspects of the game as needed.
                 </p>
                 <p>
-                    To download and play the game, click <a href="https://roseduf.itch.io/space-boat-frenzy"> here</a>.
+                    To download and play the game, click <a href="https://danielpri.itch.io/space-boat-frenzy"> here</a>.
                 </p>
 
             </div> <!-- end of proj-22 -->

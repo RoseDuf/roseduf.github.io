@@ -141,6 +141,27 @@
                             Writing automation test scripts using Powershell to ensure good quality of their products. 
                             </li>
                         </ul> 
+
+                        <div class="cs-title">
+                            Teaching Assistant
+                        </div>
+                        <div class="cs-title">
+                            Concordia University
+                        </div>
+                        <div class="date2">
+                            (from September until December 2020)
+                        </div>
+                        <div>
+                            In charge of teaching students elementary numerical methods (COMP 361).
+                        </div>
+                        <ul>
+                            <li>
+                            Preparing exercise material for students to apply numerical methods algorithms.
+                            </li>
+                            <li>
+                            Responsible for grading assignments and exams.
+                            </li>
+                        </ul> 
             </div>
 
 <!--

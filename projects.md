@@ -30,7 +30,7 @@
                 <p> I would like to share with you some interesting projects and things I've learnt over the years </p>
             </div>
 
-            <div class="proj-11">
+            <div>
                 <div class="proj">
                     <img src="static/hotcoco.png" alt="2020" width="480" height="270">
 

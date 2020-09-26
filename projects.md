@@ -58,7 +58,7 @@
 
             </div> <!-- end of proj-11 -->
 
-            <div class="proj-11">
+            <div class="proj-2">
                 <div class="proj">
                     <img src="static/2020.png" alt="2020" width="480" height="270">
 
@@ -77,7 +77,7 @@
 
             </div> <!-- end of proj-11 -->
 
-            <div class="proj-22">
+            <div class="proj-1">
                 <div class="proj">
                     <img src="static/space_boat_frenzy.png" alt="Space Boat Frenzy" width="480" height="270">
 
@@ -99,7 +99,7 @@
 
             </div> <!-- end of proj-22 -->
 
-            <div class="proj-11">
+            <div class="proj-2">
                 <div class="proj">
                     <img src="static/super_shopper.png" alt="Super Shopper" width="480" height="270">
 
@@ -119,7 +119,7 @@
 
             </div> <!-- end of proj-11 -->
 
-            <div class="proj-22">
+            <div class="proj-1">
                 <div class="proj">
                     <iframe width="480" height="270" src="https://www.youtube.com/embed/4VeVlD5qbJI">
                     </iframe>
@@ -139,7 +139,7 @@
 
             </div> <!-- end of proj-22 -->
 
-            <div class="proj-11">
+            <div class="proj-2">
                 <div class="proj">
                     <iframe width="480" height="270" src="https://www.youtube.com/embed/BmGUNQDGLlM">
                     </iframe>
@@ -159,7 +159,7 @@
 
             </div> <!-- end of proj-11 -->
 
-            <div class="proj-22">
+            <div class="proj-1">
                 <div class="proj">
                     <img src="/static/dance_attack.PNG" alt="Dance Attack">
 
@@ -178,7 +178,7 @@
 
             </div> <!-- end of proj-22 -->
 
-            <div class="proj-11">
+            <div class="proj-2">
                 <div class="proj">
                     <img src="static/PowerGrid.png" alt="PowerGrid" width="480" height="270">
 
@@ -196,7 +196,7 @@
 
             </div> <!-- end of proj-11 -->
 
-            <div class="proj-22">
+            <div class="proj-1">
                 <div class="proj">
                     <img src="static/RayTrace.bmp" alt="Ray-Trace" width="480" height="270">
 
@@ -212,7 +212,7 @@
 
             </div> <!-- end of proj-22 -->
 
-            <div class="proj-1">
+            <div class="proj-2">
                 <div class="proj">
                     <video width="480" height="270" autoplay loop>
                         <source src="RoseD_Monster_ANI.mov" type="video/mp4">
@@ -232,7 +232,7 @@
                 </div>
             </div> <!-- end of proj-1 class -->
 
-            <div class="proj-2">
+            <div class="proj-1">
                 <div class="proj">
                     <img src="static/Chicken_Rush.PNG" alt="Chicken Rush Logo" width="480" height="270">
                     <h4>Chicken Rush</h4>

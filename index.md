@@ -348,7 +348,7 @@
             </div>
             <div class="lang">
                 <h4>Blender:</h4> 
-                <p>3D modeling and animation software used for making my "Monster Bat" project</p>
+                <p>3D modeling and animation software used for making my "Monster Bat" model, as well as the games "Treasure Diver 2", "Super Shopper: Closing Time Rush", "2020" and "Hot Coco".</p>
             </div>
         </div>
 

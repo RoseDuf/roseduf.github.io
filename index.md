@@ -68,7 +68,7 @@
                 </div>
 
                 <div>
-                    <p class="classes-title">
+                    <p class="subject-title">
                         <u>Computer Applications Major (BCompS)</u>
                     </p>
                     <p>
@@ -93,7 +93,7 @@
                 <p></p>
 
                 <div>
-                    <p class="classes-title">
+                    <p class="subject-title">
                         <u>Game Design Minor</u>
                     </p>
                     <p>
@@ -113,10 +113,10 @@
             <div class="employ-grid">
                 <h3> Employement </h3>
 
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Gameplay Developer
                         </div>
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Ubisoft Halifax
                         </div>
                         <div class="date2">
@@ -137,10 +137,10 @@
                             </li>
                         </ul> 
 
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Teaching Assistant
                         </div>
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Concordia University
                         </div>
                         <div class="date2">
@@ -158,10 +158,10 @@
                             </li>
                         </ul> 
 
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Software Engineering Internship
                         </div>
-                        <div class="classes-title">
+                        <div class="subject-title">
                             Matrox, Video Department
                         </div>
                         <div class="date2">

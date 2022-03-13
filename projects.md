@@ -11,23 +11,6 @@ permalink: /projects/
     </head>
 
     <body>
-        <div class="picture">
-        
-            <div> 
-                <img src="Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300" style="border-radius: 300px;">
-            </div>
-
-            <div>
-                <div class="name"> Rose Dufresne </div>
-                    <div class="groupOf4">
-                        <div class="cv"><a href="data/CV-english.pdf"> CV </a></div>
-                        <div class="home"><a href="index.html"> Home </a></div>
-                        <div class="projs"><a href="projects.html"> Projects </a></div>
-                        <div class="github"><a href="https://github.com/RoseDuf">GitHub</a></div>
-                    </div>
-            </div>
-        </div>
-
         <div class="projects">
 
             <div class="proj-header">
@@ -37,7 +20,7 @@ permalink: /projects/
 
             <div>
                 <div class="proj">
-                    <img src="static/hotcoco.png" alt="2020" width="480" height="270">
+                    <img src="images/hotcoco.png" alt="2020" width="480" height="270">
 
                     <h4> Hot Coco </h4>
                     <p>(Made using Unreal with Blueprint)</p>
@@ -65,7 +48,7 @@ permalink: /projects/
 
             <div class="proj-2">
                 <div class="proj">
-                    <img src="static/2020.png" alt="2020" width="480" height="270">
+                    <img src="images/2020.png" alt="2020" width="480" height="270">
 
                     <h4> 2020 </h4>
                     <p>(Made using Unity and C#)</p>
@@ -84,7 +67,7 @@ permalink: /projects/
 
             <div class="proj-1">
                 <div class="proj">
-                    <img src="static/space_boat_frenzy.png" alt="Space Boat Frenzy" width="480" height="270">
+                    <img src="images/space_boat_frenzy.png" alt="Space Boat Frenzy" width="480" height="270">
 
                     <h4> Space Boat Frenzy </h4>
                     <p>(Made using Unity and C#)</p>
@@ -106,7 +89,7 @@ permalink: /projects/
 
             <div class="proj-2">
                 <div class="proj">
-                    <img src="static/super_shopper.png" alt="Super Shopper" width="480" height="270">
+                    <img src="images/super_shopper.png" alt="Super Shopper" width="480" height="270">
 
                     <h4> Super Shopper: Closing Time Rush </h4>
                     <p>(Made using Unity and C#)</p>
@@ -166,7 +149,7 @@ permalink: /projects/
 
             <div class="proj-1">
                 <div class="proj">
-                    <img src="/static/dance_attack.PNG" alt="Dance Attack">
+                    <img src="/images/dance_attack.PNG" alt="Dance Attack">
 
                     <h4> Dance Attack </h4>
                     <p>(Made using Unity and C#)</p>
@@ -185,7 +168,7 @@ permalink: /projects/
 
             <div class="proj-2">
                 <div class="proj">
-                    <img src="static/PowerGrid.png" alt="PowerGrid" width="480" height="270">
+                    <img src="images/PowerGrid.png" alt="PowerGrid" width="480" height="270">
 
                     <h4> PowerGrid Board Game Project </h4>
                     <p>(Made using C++)</p>
@@ -203,7 +186,7 @@ permalink: /projects/
 
             <div class="proj-1">
                 <div class="proj">
-                    <img src="static/RayTrace.bmp" alt="Ray-Trace" width="480" height="270">
+                    <img src="images/RayTrace.bmp" alt="Ray-Trace" width="480" height="270">
 
                     <h4> Ray-Tracing Project </h4>
                     <p>(Made using C++)</p>
@@ -239,7 +222,7 @@ permalink: /projects/
 
             <div class="proj-1">
                 <div class="proj">
-                    <img src="static/Chicken_Rush.PNG" alt="Chicken Rush Logo" width="480" height="270">
+                    <img src="images/Chicken_Rush.PNG" alt="Chicken Rush Logo" width="480" height="270">
                     <h4>Chicken Rush</h4>
                     <p>(Made using Processing)</p>
                     <!-- <p><a href="game.html"> Game </a></p> -->
@@ -253,7 +236,7 @@ permalink: /projects/
                     <p>
                     How to play:
                     </p>
-                    <img src="static/keyboard.png" alt="keys" width="448" height="152">
+                    <img src="images/keyboard.png" alt="keys" width="448" height="152">
                     <p>
                     To control the white chicken you press "Shift" and to control the brown chicken you press the "Up" key.
                     </p>

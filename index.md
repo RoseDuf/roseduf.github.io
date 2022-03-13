@@ -15,7 +15,7 @@
             <div>
                 <div class="name"> Rose Dufresne </div>
                     <div class="groupOf4">
-                        <div class="cv"><a href="CV-english-6.pdf"> CV </a></div>
+                        <div class="cv"><a href="CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projs"><a href="projects.html"> Projects </a></div>
                         <div class="github"><a href="https://github.com/RoseDuf">GitHub</a></div>
@@ -27,16 +27,22 @@
             <h3 class="header"> Introduction </h3>
             <div class="intro">
                 <p> 
-                I am a fourth year student majoring in Computer Science and minoring in Game Design at Concordia University. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am very interested in pursuing any opportunity to expand my knowledge in my field.
+                Hello, my name is Rose Dufresne. Come along as you get to know me through this website! 
                 </p>
                 <p>
-                During my experience at Concordia University, I've learned to appreciate many aspects of computer science over the years. For example, I loved my course on theoretical computer science where I got to learn how turing machines worked and how computers interpreted different grammars. I also enjoyed data structures and algorithms because it was satisfying for me to see different sorting algorithm's effectiveness at play. Furthermore, I've gained a particular interest in computer graphics. In fact, so much so that I would love to pursue a job that is closely related to computer graphics in the near future.
+                I am a 25 year old woman, with a bachelor's degree in computer science and a minor in game design currently working at Ubisoft as a gameplay developer. Being a person that is always interested in learning new skills and determined at completing challenges to the best of my ability, I am always interested in pursuing any opportunity to expand my knowledge in the field of computer science and software engineering.
                 </p>
                 <p>
-                Thanks to my game design minor, I also had the opportunity to combine the very technical aspects of computer science with art! I have always been a very artistic person and I absolutely didn't want to let my talents go to waste, which is why I am very interested in creating games. It perfectly combines the mathematical and logical aspects of computer science with art, something that is very hard to find in professional fields.
+                During my experience at Concordia University and my job at Ubisoft, I've learned to appreciate many aspects of computer science over the years. For example, I love to use mathematical and physics concepts to simulate real life behaviours in software applications, which is why I gained a great appreciation to numerical methods that help these concepts become feasible in a digital medium. Because of my love for mathematical concepts and art, I've also gained a particular interest in computer graphics and animation programming. In fact, so much so that I am always actively pushing myself to learn more about these subjects to be able to one day pursue a career closely related to them in the future.
+                </p>
+                <p>
+                Thanks to my game design minor and my experience as a gameplay developer, I also had the opportunity to combine the very technical aspects of programming with art! I have always been a very artistic person and I absolutely didn't want to let my talents go to waste, which is why I am very interested in creating games. It perfectly combines the mathematical and logical aspects of computer science with art, something that is very hard to find in professional fields.
                 </p>
                 <p>  
-                When it comes to programming, one of my competences is my ability to learn new programming languages and softwares very quickly. Before applying to my major, I had no previous knowledge in coding. However, it only took me a couple of months to finally catch up to the standards of the classes I was taking, and even exceeded other students in my program.
+                One of my competences is my ability to learn new things very quickly. I never shy away from asking relevant questions when needed and I never let myself be intimidated by the tasks I need to complete. I push myself through them and always ultimately get things done quickly and on time. 
+                </p>
+                <p>  
+                Lastly, something you should know about me is that I am very passionate about helping others learn more about programming and the fantastic ways I've found how to combine technology and art. I strive to inspire new programmers to find a career path they will love and to help them when they need it. This is why I actively organize and participate in networking events such as game jams, hackathons and conferences where I host workshops, mentor and attend as a speaker. I do this completely voluntarily because I know how hard it is to take the steps to find a career you love and I want to share my own experiences with others to find the same success I have. 
                 </p>
             </div>
         </div>

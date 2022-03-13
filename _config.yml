@@ -47,7 +47,7 @@ plugins: [jekyll-paginate, jekyll-seo-tag]
 
 #social
 facebook: 
-email: hello@webjeda.com
+email:
 
 #facebook like box
 fb-like-box: no

@@ -57,35 +57,18 @@
                         Concordia University, Montreal, QC
                     </div>
                     <div class="date">
-                        (from 2016 until now)
+                        (from 2016 to 2020)
                     </div>
                 </div>
 
                 <div class="gpa">
                     <p class="title">
-                        <p>GPA: 3.11</p>
+                        <p>GPA: 3.2</p>
                     </p>
                 </div>
-
-                <div class="gd">
-                    <p class="gd-title">
-                        <u>Game Design Minor</u>
-                    </p>
-                    <p>
-                        Relevant courses I have taken:
-                    </p>
-                    <ul>
-                        <li>Introduction to Game Design - CART 215</li>
-                        <li>3D Digital Production - CART 361</li>
-                        <li>Computation Arts I - CART 253</li>
-                        <li>Introduction to Game Development - COMP 376</li>
-                    </ul>  
-                </div>
-            
-                <p></p>
 
                 <div class="cs">
-                    <p class="cs-title">
+                    <p class="classes-title">
                         <u>Computer Applications Major (BCompS)</u>
                     </p>
                     <p>
@@ -102,19 +85,25 @@
                         <li>Advanced Program Design with C++ - COMP 345 </li>
                         <li>Combinatorics - COMP 339</li>
                         <li>Elementary Numerical Methods - COMP 361</li>
-                    </ul>  
-                </div>
-
-                <div class="taking">
-                    <p class="cs-title">
-                        <u> Courses I am currently taking OR going to take this year</u>
-                    </p>
-                    <p>
-                        Relevant courses:
-                    </p>
-                    <ul>
                         <li>Animation for Computer Games - COMP 477</li>
                         <li>Artificial Intelligence - COMP 472</li>
+                    </ul>  
+                </div>
+            
+                <p></p>
+
+                <div class="gd">
+                    <p class="classes-title">
+                        <u>Game Design Minor</u>
+                    </p>
+                    <p>
+                        Relevant courses I have taken:
+                    </p>
+                    <ul>
+                        <li>Introduction to Game Design - CART 215</li>
+                        <li>3D Digital Production - CART 361</li>
+                        <li>Computation Arts I - CART 253</li>
+                        <li>Introduction to Game Development - COMP 376</li>
                         <li>Game Studio I - CART 415</li>
                     </ul>  
                 </div>
@@ -124,17 +113,62 @@
             <div class="employ-grid">
                 <h3> Employement </h3>
 
-                        <div class="cs-title">
+                        <div class="classes-title">
+                            Gameplay Developer
+                        </div>
+                        <div class="classes-title">
+                            Ubisoft Halifax
+                        </div>
+                        <div class="date2">
+                            (from January 2021 to present)
+                        </div>
+                        <div>
+                            Main programmer for integrating highly requested gameplay features for the mobile game Assassin’s Creed Rebellion and providing narrative tools for the design team in a new and upcoming project.
+                        </div>
+                        <ul>
+                            <li>
+                            Fixed reported bugs effectively, in a fast-paced environment, giving users a more polished product.
+                            </li>
+                            <li>
+                            Used many design patterns to maintain and improve the sustainability and readability of the code.
+                            </li>
+                            <li>
+                            Interacted with a dynamic team that all have different and important roles in the pipeline involved into making a game, using Agile development methodology and good communication skills.
+                            </li>
+                        </ul> 
+
+                        <div class="classes-title">
+                            Teaching Assistant
+                        </div>
+                        <div class="classes-title">
+                            Concordia University
+                        </div>
+                        <div class="date2">
+                            (from September until December 2020)
+                        </div>
+                        <div>
+                            Taught students elementary numerical methods (COMP 361).
+                        </div>
+                        <ul>
+                            <li>
+                            Preparing exercise material for students to apply numerical methods algorithms.
+                            </li>
+                            <li>
+                            Responsible for grading assignments and exams.
+                            </li>
+                        </ul> 
+
+                        <div class="classes-title">
                             Software Engineering Internship
                         </div>
-                        <div class="cs-title">
+                        <div class="classes-title">
                             Matrox, Video Department
                         </div>
                         <div class="date2">
-                            (from January 6th 2020 until now)
+                            (from January 2020 until April 2020)
                         </div>
                         <div>
-                            Participating in the development and maintenance of Matrox’s cross-platform video software components using C++.
+                            Developed and maintained Matrox’s cross-platform video software components using C++.
                         </div>
                         <ul>
                             <li>
@@ -145,27 +179,6 @@
                             </li>
                             <li>
                             Writing automation test scripts using Powershell to ensure good quality of their products. 
-                            </li>
-                        </ul> 
-
-                        <div class="cs-title">
-                            Teaching Assistant
-                        </div>
-                        <div class="cs-title">
-                            Concordia University
-                        </div>
-                        <div class="date2">
-                            (from September until December 2020)
-                        </div>
-                        <div>
-                            In charge of teaching students elementary numerical methods (COMP 361).
-                        </div>
-                        <ul>
-                            <li>
-                            Preparing exercise material for students to apply numerical methods algorithms.
-                            </li>
-                            <li>
-                            Responsible for grading assignments and exams.
                             </li>
                         </ul> 
             </div>

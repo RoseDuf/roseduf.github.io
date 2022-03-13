@@ -6,34 +6,23 @@ layout: compress
 <html>
 
   {% include head.html %}
-  
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    
-
-{% seo %}
-  </head>
 
   <body>
 
-    <div class="picture">
-        
-      <div> 
-          <img src="images/Rose_Dufresne_img.jpg" alt="Rose Dufresne" width="300" height="300" style="border-radius: 300px;">
-      </div>
+    {% include header.html %}
 
-      {% include header.html %}
-  </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+    <div class="container">
+      <div class="wrapper">
         {{ content }}
-      </section>
+      </div>
     </div>
 
+    {% include footer.html %}
     
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+ {% if site.analytics %}{% include analytics.html %}{% endif %}
   </body>
+
 </html>

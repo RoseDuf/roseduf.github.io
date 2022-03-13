@@ -7,7 +7,7 @@ permalink: /projects/
 <html>
     <head>
         <title> Projects </title>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="css/styles.css">
     </head>
 
     <body>

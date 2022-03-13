@@ -128,12 +128,7 @@ li {
             display: grid;
         } 
 
-.gd-title {
-            text-align: center;
-            font-weight: bold;
-        }
-
-.cs-title {
+.classes-title {
             text-align: center;
             font-weight: bold;
         }

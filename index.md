@@ -61,13 +61,13 @@
                     </div>
                 </div>
 
-                <div class="gpa">
+                <div>
                     <p class="title">
                         <p>GPA: 3.2</p>
                     </p>
                 </div>
 
-                <div class="cs">
+                <div>
                     <p class="classes-title">
                         <u>Computer Applications Major (BCompS)</u>
                     </p>
@@ -92,7 +92,7 @@
             
                 <p></p>
 
-                <div class="gd">
+                <div>
                     <p class="classes-title">
                         <u>Game Design Minor</u>
                     </p>

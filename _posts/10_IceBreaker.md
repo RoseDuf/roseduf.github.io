@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2020"
+title:  "IceBreaker"
 categories: Game
-img: 2020.png
+img: 
 ---
 2020, as the name suggests, is a horror game. 2020 has been a hard year for all of us, but the worst has definitely been the lockdown caused by the coronavirus. In this game, for almost 3 months you have been doing what you have been told by every news media: self isolation. However, you are starting to forget what the outside world looks like. For this reason, you decide to go out for some fresh air. Upon exiting your house, you come to the reaslisation that the outside world is not how you remember... The gameplay is simple: keep your social distancing!
 

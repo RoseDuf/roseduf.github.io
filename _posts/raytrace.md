@@ -1,28 +1,15 @@
+---
+layout: post
+title:  "Ray-Tracing Project"
+categories: Game
+img: RayTrace.bmp
+---
+Ray-Tracing Project
+(Made using C++)
 
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title> RayTracer Project </title>
-        <link rel="stylesheet" href="styles.css">
-    </head>
+This project was my final project in my Computer Graphics course. It was made individually and required me to make from scratch a ray-tracer that would be able to render circles, quads (for example: planes), and meshes (objects made from triangles). We had to compute realistic lighting and shadows using global illumination physics and the image space (as opposed to local illumation physics and the object space used in APIs such as OpenGL). Global illumination and image space mean, in short, that colors are rendered per individual pixel instead of per object. This means that the illumination and shadows are far more realistic than the ones produced by OpenGL. However, this also means that ray-tracing requires more intensive computation. 
 
-    <body>
-        <div class="picture">
-        
-            <div> 
-                <img src="static/RayTrace.bmp" alt="Ray-Trace" width="480" height="270">
-            </div>
-
-            <div>
-                <div class="name-proj"> Ray-Tracing Project </div>
-                    <div class="groupOf3">
-                        <div class="cv"><a href="images/CV-english.pdf"> CV </a></div>
-                        <div class="home"><a href="index.html"> Home </a></div>
-                        <div class="projs"><a href="projects.html"> Projects </a></div>
-                    </div>
-            </div>
-
-        </div>
+For more information on how I did this, click <a href="https://github.com/RoseDuf/Ray-Tracing"> here</a>.
 
         <div class="description">
             <p>

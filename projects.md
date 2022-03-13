@@ -5,11 +5,6 @@ permalink: /projects/
 ---
 
 <html>
-    <head>
-        <title> Projects </title>
-        <link rel="stylesheet" href="css/styles.css">
-    </head>
-
     <body>
         <div class="projects">
 

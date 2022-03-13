@@ -15,7 +15,7 @@
             <div>
                 <div class="name-proj"> PowerGrid Board Game Project </div>
                     <div class="groupOf3">
-                        <div class="cv"><a href="CV-english.pdf"> CV </a></div>
+                        <div class="cv"><a href="images/CV-english.pdf"> CV </a></div>
                         <div class="home"><a href="index.html"> Home </a></div>
                         <div class="projs"><a href="projects.html"> Projects </a></div>
                     </div>

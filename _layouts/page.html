@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-md-9">
+  <article class="post">
+
+    <header class="post-header">
+      <h3 class="post-title">{{ page.title }}</h3>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+  </div>
+  {% include sidebar.html %}
+</div>
+
+{% include fb-script.html %}

@@ -1588,6 +1588,22 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
+
+.wrapper {
+  padding-right: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+  display: grid;
+  justify-content: center;
+}
+
+@media (max-width: 767px)
+{
+  .wrapper {
+      padding-right: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+  }
+}
+
 .container {
   margin-right: auto;
   margin-left: auto;

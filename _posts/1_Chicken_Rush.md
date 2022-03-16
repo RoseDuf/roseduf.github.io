@@ -2,7 +2,7 @@
 layout: post
 title:  "Chicken Rush"
 categories: Game
-img: Chicken_Rush.PNG.png
+img: Chicken_Rush.PNG
 ---
 Chicken Rush
 (Made using Processing)

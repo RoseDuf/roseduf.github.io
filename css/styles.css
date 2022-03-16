@@ -123,6 +123,15 @@ li
     padding-bottom: 50px;
 }
 
+@media (max-width: 767px)
+{
+    .intro 
+    {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+}
+
 .name 
 {
     vertical-align: top;

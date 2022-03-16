@@ -8,7 +8,7 @@ layout: default
 
         {% for post in paginator.posts %}   
             <div class="col-md-4 card">
-             <a href="{{ post.url | prepend: site.baseurl }}/projects/" class="index-anchor">    
+             <a href="{{ post.url | prepend: {{site.baseurl}}/projects/ }}" class="index-anchor">    
                 <div class="panel panel-default">
                   
                   {% if post.img %}
@@ -38,7 +38,7 @@ layout: default
             {% if paginator.total_pages > 1 %}
             <ul class="pagination">
             {% if paginator.previous_page %}
-                <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
+                <li><a href="{{ paginator.previous_page_path | prepend: {{site.baseurl}}/projects/ | replace: '//', '/' }}">&laquo; Prev</a></li>
             {% else %}
                 <li><span>&laquo; Prev</span></li>
             {% endif %}
@@ -47,14 +47,14 @@ layout: default
                 {% if page == paginator.page %}
                 <li class="active"><span><em>{{ page }}</em></span></li>
                 {% elsif page == 1 %}
-                <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+                <li><a href="{{ paginator.previous_page_path | prepend: {{site.baseurl}}/projects/ | replace: '//', '/' }}">{{ page }}</a></li>
                 {% else %}
-                <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                <li><a href="{{ site.paginate_path | prepend: {{site.baseurl}}/projects/ | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
                 {% endif %}
             {% endfor %}
 
             {% if paginator.next_page %}
-                <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li><a href="{{ paginator.next_page_path | prepend: {{site.baseurl}}/projects/ | replace: '//', '/' }}">Next &raquo;</a></li>
             {% else %}
                 <li><span >Next &raquo;</span></li>
             {% endif %}

@@ -80,7 +80,6 @@ li
 {
     grid-column: 1;
     grid-template-rows: 1fr 1fr;
-    display: grid;
 }
 
 .edu-grid 

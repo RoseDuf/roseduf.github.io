@@ -30,7 +30,7 @@ default-image: Rose_Dufresne_img.jpg # If there is no featured image in a post t
 markdown: kramdown
 permalink: /:title/
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /projects/page:num/
 
 # Tracker
 analytics: UA-83979019-1

@@ -29,7 +29,7 @@ default-image: Rose_Dufresne_img.jpg # If there is no featured image in a post t
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 6
+paginate: 21
 paginate_path: /projects/page:num/
 pagination: 
   enabled: true

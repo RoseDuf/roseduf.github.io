@@ -31,7 +31,6 @@ markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /page:num/
-pagination: enabled: true
 
 # Tracker
 analytics: UA-83979019-1

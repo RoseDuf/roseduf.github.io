@@ -31,6 +31,7 @@ markdown: kramdown
 permalink: /:title/
 paginate: 6
 paginate_path: /projects/page:num/
+enabled: true
 
 # Tracker
 analytics: UA-83979019-1
@@ -43,7 +44,7 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag]
+plugins: [jekyll-paginate-v2, jekyll-seo-tag]
 
 #social
 facebook: 

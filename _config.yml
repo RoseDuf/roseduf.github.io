@@ -45,7 +45,7 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate-v2, jekyll-seo-tag]
+plugins: [jekyll-paginate-v2, jekyll-seo-tag, jekyll-redirect-from]
 
 #social
 facebook: 

@@ -216,21 +216,10 @@ li
     padding-top: 10px;
 }
 
-.groupOf2 
+.group
 {
-    grid-template-columns: 1fr 1fr;
-    display: grid;
-}       
-.groupOf3 
-{
-    grid-template-columns: 1fr 1fr 1fr;
-    display: grid;
-}
-
-.groupOf4 
-{
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    display: grid;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .cv 

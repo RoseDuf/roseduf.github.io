@@ -1,13 +1,35 @@
 ---
 layout: post
-title:  "IceBreaker"
+title:  "Ice Breaker"
 categories: Game
-img: 
+img: icebreaker.png
 ---
-2020, as the name suggests, is a horror game. 2020 has been a hard year for all of us, but the worst has definitely been the lockdown caused by the coronavirus. In this game, for almost 3 months you have been doing what you have been told by every news media: self isolation. However, you are starting to forget what the outside world looks like. For this reason, you decide to go out for some fresh air. Upon exiting your house, you come to the reaslisation that the outside world is not how you remember... The gameplay is simple: keep your social distancing!
+(Unity and C#)
 
-This game was made with 3 other team members for Concordia's online game jam on May 17th 2020 with the theme "PANIC". I created some of the assets, including the infected people stuck on the walls, the mini covid monsters that appear on your visor, as well as the giant mother covid at the end of the maze. I also coded core gameplay attributes such as your life draining the longer you get exposed from standing too close to infected wall people and all of the UI. I also did all of the particle effects.
+Single player, top view, 3D rhythm game where you play as a penguin with a goal to seduce as many other penguins with your dancing skills.
 
-Play the game: [2020 on itch,io](https://roseduf.itch.io/2020)
+Description:
 
-[Concordia Makes Games Online May 15th to 17th 2020](https://itch.io/jam/concordia-makes-games-online)
+It's breeding season for the penguins! And the biggest seduction event is in town: The Icebreaker! This great annual celebration will allow you to meet many partners, each one as charming as the next! However, to charm a partner, it will not be easy. Indeed, you will have to demonstrate your dancing skills!
+Copy your opponent's moves to convince him / her, using good rhythm, to come with you! Try to gather as many mates as possible before the sun comes up!
+
+Beware! If you ever fail to charm an opponent, all of your partners will be so ashamed of you that they will abandon you on the spot!
+
+So, who will be the big winner of the Ice Breaker?
+
+Contols:
+
+- Arms up: W
+- Arms down: S
+- Arms to the right: A
+- Arms to the left: D
+- Dancing with a penguin: Space bar
+- Stop the game: Escape
+
+This game was made with 4 other team members for Concordia Makes Games 2021 from May 14th to 16th with the theme "ATTRACTION". I designed the main concept of the game and, as a programmer, I implemented the movements, camera behaviours, as well as the AI of the penguins that follow you using path finding and Unity’s Nav Mesh tools.
+
+Rewards: won 1st place amongst 12 game submissions
+
+Play the game: [Ice Breaker on itch.io](https://jeremielapointe.itch.io/icebreaker)
+
+[Concordia Makes Games 2021, May 14th to 16th](https://itch.io/jam/concordia-make-games)

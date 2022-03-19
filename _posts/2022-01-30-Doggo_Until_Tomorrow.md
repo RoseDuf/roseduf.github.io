@@ -4,7 +4,9 @@ title:  "Doggo Until Tomorrow"
 categories: Game
 img: doggo_until_tomorrow.png
 ---
-(Made using Unity and C#)
+(Unity and C#)
+
+Description:
 
 Have you ever wanted to control an adorable little dog? Well, enter this magical and flamboyant world to make your dream come true! In this cute game, you'll have to help the little villagers feed themselves by bringing them their favorite food! Watch as they thank you with their cute little voices! So what are you waiting for? Fill your basket and get ready for a surprising and adorable game in a fantastic universe! And who knows, maybe you'll discover that this game holds some secrets for you to discover... 
 
@@ -16,4 +18,4 @@ Reward: We won a prize for 4th place amongst 35 game submissions!
 
 Play the game: [Doggo Until Tomorrow on itch.io](https://roseduf.itch.io/doggo-until-tomorrow)
 
-[Game Submission for Global Game Jam 2022](https://globalgamejam.org/2022/games/doggo-until-tomorrow-9)
+[Global Game Jam 2022, January 20th to 30th](https://globalgamejam.org/2022/games/doggo-until-tomorrow-9)

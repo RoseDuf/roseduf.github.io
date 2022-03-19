@@ -71,6 +71,11 @@ li
     text-align: center;
 }
 
+.homePage
+{
+    grid-template-columns: auto 15px auto;
+}
+
 .introduction 
 {
     grid-column: 1/span 3;

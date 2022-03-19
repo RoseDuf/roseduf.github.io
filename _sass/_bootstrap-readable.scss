@@ -1593,6 +1593,7 @@ pre code {
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
   display: grid;
+  grid-template-columns: auto 15px auto;
   justify-content: center;
 }
 

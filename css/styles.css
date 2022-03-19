@@ -216,7 +216,7 @@ li
     padding-top: 10px;
 }
 
-.group
+.flexGroup
 {
     display: flex;
     justify-content: space-evenly;

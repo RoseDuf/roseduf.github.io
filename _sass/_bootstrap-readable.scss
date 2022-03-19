@@ -1592,8 +1592,6 @@ pre code {
 .wrapper {
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
-  display: grid;
-  justify-content: center;
 }
 
 @media (max-width: 767px)
@@ -1601,7 +1599,6 @@ pre code {
   .wrapper {
       padding-right: $spacing-unit / 2;
       padding-left: $spacing-unit / 2;
-      display: block;
   }
 }
 

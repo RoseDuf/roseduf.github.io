@@ -73,7 +73,16 @@ li
 
 .homePage
 {
+    display: grid;
+    justify-content: center;
     grid-template-columns: auto 15px auto;
+}
+
+@media (max-width: 767px)
+{
+    .homePage {
+      display: block;
+  }
 }
 
 .introduction 

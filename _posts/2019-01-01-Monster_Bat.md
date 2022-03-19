@@ -5,8 +5,8 @@ categories: Game
 img: monster_bat.png
 ---
 <video width="480" height="270" autoplay loop>
-    <source src="/_images/RoseD_Monster_ANI.mov" type="video/mp4">
-    <source src="/_images/RoseD_Monster_ANI.mov" type="video/ogg">
+    <source src="/images/RoseD_Monster_ANI.mov" type="video/mp4">
+    <source src="/images/RoseD_Monster_ANI.mov" type="video/ogg">
     Your browser does not support the video tag.
 </video>
 

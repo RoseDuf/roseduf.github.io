@@ -2,12 +2,18 @@
 layout: post
 title:  "Doggo Until Tomorrow"
 categories: Game
-img: 
+img: doggo_until_tomorrow.png
 ---
-2020, as the name suggests, is a horror game. 2020 has been a hard year for all of us, but the worst has definitely been the lockdown caused by the coronavirus. In this game, for almost 3 months you have been doing what you have been told by every news media: self isolation. However, you are starting to forget what the outside world looks like. For this reason, you decide to go out for some fresh air. Upon exiting your house, you come to the reaslisation that the outside world is not how you remember... The gameplay is simple: keep your social distancing!
+(Made using Unity and C#)
 
-This game was made with 3 other team members for Concordia's online game jam on May 17th 2020 with the theme "PANIC". I created some of the assets, including the infected people stuck on the walls, the mini covid monsters that appear on your visor, as well as the giant mother covid at the end of the maze. I also coded core gameplay attributes such as your life draining the longer you get exposed from standing too close to infected wall people and all of the UI. I also did all of the particle effects.
+Have you ever wanted to control an adorable little dog? Well, enter this magical and flamboyant world to make your dream come true! In this cute game, you'll have to help the little villagers feed themselves by bringing them their favorite food! Watch as they thank you with their cute little voices! So what are you waiting for? Fill your basket and get ready for a surprising and adorable game in a fantastic universe! And who knows, maybe you'll discover that this game holds some secrets for you to discover... 
 
-Play the game: [2020 on itch,io](https://roseduf.itch.io/2020)
+When night is reached, you will see your dual personality emerge. Feeding those villagers was just a farce! in fact, you were only fattening them up for you to eat them yourself when you turn into a werewolf! Only one thing to do in this faze... KILL THEM ALL!!! MOUAHAHAHHA!
 
-[Concordia Makes Games Online May 15th to 17th 2020](https://itch.io/jam/concordia-makes-games-online)
+This game was made with 4 other team members for the Global Game Jam 2022 from the 20th to the 30th of January with the theme "DUALITY". As a programmer, I implemented most of the core gameplay of this game; the the player's abilities and interactions with the villagers, the AI behaviour of the villagers, the changes in abilities during the transition between day and night and object pooling for the villagers and items that spawn. I also did the level design, established the game design properties and the toon shader effect using Unity's ShaderGraph tool. This is one of my proudest game jam submissions because, not only did we win a prize at 4th place amongst 35 submissions, it is also a game that never fails to make me laugh. It is silly, polished and fun. Nothing better than a game like that!
+
+Reward: We won a prize for 4th place amongst 35 game submissions! 
+
+Play the game: [Doggo Until Tomorrow on itch.io](https://roseduf.itch.io/doggo-until-tomorrow)
+
+[Game Submission for Global Game Jam 2022](https://globalgamejam.org/2022/games/doggo-until-tomorrow-9)

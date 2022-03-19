@@ -2,7 +2,7 @@
 layout: post
 title:  "Monster Bat"
 categories: Game
-img: 
+img: monster_bat.png
 ---
 <video width="480" height="270" autoplay loop>
     <source src="RoseD_Monster_ANI.mov" type="video/mp4">
